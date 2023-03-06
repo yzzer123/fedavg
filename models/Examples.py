@@ -48,9 +48,9 @@ class ResNetMNIST(BasicModel):
     def get_dataloader(self) -> Tuple[DataLoader]:
         batch = 100
         trans=transforms.Compose([transforms.ToTensor(),transforms.Normalize(0.15,0.30)])
-        train_set=datasets.MNIST("~/datasets/MNIST",train=True,download=True,transform=trans)
+        train_set=datasets.MNIST("/home/zzz/datasets/MNIST",train=True,download=True,transform=trans)
         train_loader=DataLoader(train_set,batch_size=batch,shuffle=True,num_workers=4)
-        test_set=datasets.MNIST("~/datasets/MNIST", train=False,download=True,transform=trans)
+        test_set=datasets.MNIST("/home/zzz/datasets/MNIST", train=False,download=True,transform=trans)
         test_loader=DataLoader(test_set,batch_size=batch,num_workers=4)
         return train_loader, test_loader
 
@@ -73,8 +73,8 @@ class ResNetMNIST(BasicModel):
                 l+=loss.item()
                 optimizer.step()
                 scheduler.step()
-                if batch_index%100==0:
-                    print("epoch:",epoch,"batch_index:",batch_index/100,"loss:",l)
+                    
+        print("loss=", l)
         self.data_size =data_size
     
     
@@ -91,8 +91,6 @@ class ResNetMNIST(BasicModel):
                 _,pred_labels=torch.max(pred_data,dim=1)
                 total+=test_labels.shape[0]
                 correct+=(pred_labels==test_labels).sum().item()
-                if batch_index%10==0:
-                    eval_msg += f"测试进度: {100.0*batch_index/100} %\n"
             eval_msg += f"准确率为: {correct*100.0/total} %\n"
         return eval_msg
     

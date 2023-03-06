@@ -17,12 +17,17 @@ class TrainerServer(object):
         self.server = grpc.aio.server(futures.ThreadPoolExecutor(max_workers=Properties.getInt(Properties.TRAINER_SERVER_THREADS)),
                                         options=options)
         
+        self.service = TrainerService()
+        
         # 注册grpc服务
-        trainer_service_pb2_grpc.add_TrainerServiceServicer_to_server(TrainerService(), self.server)
+        trainer_service_pb2_grpc.add_TrainerServiceServicer_to_server(self.service, self.server)
         self.server.add_insecure_port("[::]:" + str(self.port))
 
     def init(self) -> None:
         pass
+    
+    def get_service(self) -> TrainerService:
+        return self.service
     
     
     async def start(self) -> None:

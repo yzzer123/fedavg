@@ -1,0 +1,270 @@
+2023-03-06 06:33:43,867  service.server : INFO  trainer server start on port: 12333
+2023-03-06 06:33:43,871  service.leader : INFO  create client with 10.0.1.1:12333
+2023-03-06 06:33:43,872  service.leader : INFO  create client with 10.1.1.1:12333
+2023-03-06 06:33:43,872  service.leader : INFO  create client with 10.2.1.1:12333
+2023-03-06 06:33:43,872  service.leader : INFO  create client with 10.3.1.1:12333
+2023-03-06 06:33:43,872  service.leader : INFO  create client with 10.4.1.1:12333
+2023-03-06 06:33:43,872  service.leader : INFO  create client with 10.5.1.1:12333
+2023-03-06 06:33:43,872  service.leader : INFO  create client with 10.6.1.1:12333
+2023-03-06 06:33:43,873  service.leader : INFO  create client with 10.7.1.1:12333
+2023-03-06 06:33:43,873  service.leader : INFO  create client with 10.8.1.1:12333
+2023-03-06 06:33:46,882  service.leader : INFO  send model to 10.0.1.1:12333
+2023-03-06 06:33:46,883  service.leader : INFO  send model to 10.1.1.1:12333
+2023-03-06 06:33:46,883  service.leader : INFO  send model to 10.2.1.1:12333
+2023-03-06 06:33:46,883  service.leader : INFO  send model to 10.3.1.1:12333
+2023-03-06 06:33:46,883  service.leader : INFO  send model to 10.4.1.1:12333
+2023-03-06 06:33:46,883  service.leader : INFO  send model to 10.5.1.1:12333
+2023-03-06 06:33:46,884  service.leader : INFO  send model to 10.6.1.1:12333
+2023-03-06 06:33:46,884  service.leader : INFO  send model to 10.7.1.1:12333
+2023-03-06 06:33:46,884  service.leader : INFO  send model to 10.8.1.1:12333
+===========================global epoch 0===========================
+2023-03-06 06:34:42,933  service.services : INFO  local training costs 51.31781482696533 s
+2023-03-06 06:34:42,941  service.services : INFO  collect model from id: 10.1.1.1:12333
+2023-03-06 06:34:42,948  service.services : INFO  collect model from id: 10.5.1.1:12333
+2023-03-06 06:34:43,003  service.services : INFO  collect model from id: 10.7.1.1:12333
+2023-03-06 06:34:43,026  service.services : INFO  collect model from id: 10.2.1.1:12333
+2023-03-06 06:34:43,132  service.services : INFO  collect model from id: 10.6.1.1:12333
+2023-03-06 06:34:43,281  service.services : INFO  collect model from id: 10.0.1.1:12333
+2023-03-06 06:34:43,337  service.services : INFO  collect model from id: 10.3.1.1:12333
+2023-03-06 06:34:43,597  service.services : INFO  collect model from id: 10.4.1.1:12333
+2023-03-06 06:34:43,857  service.services : INFO  collect model from id: 10.8.1.1:12333
+2023-03-06 06:34:43,864  service.services : INFO  leader begin to merge model
+2023-03-06 06:34:43,869  service.services : INFO  Merging models costs 0.00482630729675293 s
+loss= 0.0025592029560357332
+2023-03-06 06:34:44,813  service.services : INFO  准确率为: 98.22 %
+
+2023-03-06 06:34:44,814  service.leader : INFO  global epoch 1 costs[ms]=57935	total[ms]=57935
+2023-03-06 06:34:44,817  service.leader : INFO  send model to 10.0.1.1:12333
+2023-03-06 06:34:44,818  service.leader : INFO  send model to 10.1.1.1:12333
+2023-03-06 06:34:44,818  service.leader : INFO  send model to 10.2.1.1:12333
+2023-03-06 06:34:44,818  service.leader : INFO  send model to 10.3.1.1:12333
+2023-03-06 06:34:44,818  service.leader : INFO  send model to 10.4.1.1:12333
+2023-03-06 06:34:44,818  service.leader : INFO  send model to 10.5.1.1:12333
+2023-03-06 06:34:44,818  service.leader : INFO  send model to 10.6.1.1:12333
+2023-03-06 06:34:44,818  service.leader : INFO  send model to 10.7.1.1:12333
+2023-03-06 06:34:44,819  service.leader : INFO  send model to 10.8.1.1:12333
+===========================global epoch 1===========================
+2023-03-06 06:35:33,654  service.services : INFO  local training costs 48.82591390609741 s
+2023-03-06 06:35:33,665  service.services : INFO  collect model from id: 10.3.1.1:12333
+2023-03-06 06:35:33,668  service.services : INFO  collect model from id: 10.2.1.1:12333
+2023-03-06 06:35:33,672  service.services : INFO  collect model from id: 10.6.1.1:12333
+2023-03-06 06:35:33,675  service.services : INFO  collect model from id: 10.7.1.1:12333
+2023-03-06 06:35:33,679  service.services : INFO  collect model from id: 10.1.1.1:12333
+2023-03-06 06:35:33,682  service.services : INFO  collect model from id: 10.8.1.1:12333
+2023-03-06 06:35:33,686  service.services : INFO  collect model from id: 10.5.1.1:12333
+2023-03-06 06:35:33,926  service.services : INFO  collect model from id: 10.0.1.1:12333
+2023-03-06 06:35:34,192  service.services : INFO  collect model from id: 10.4.1.1:12333
+2023-03-06 06:35:34,199  service.services : INFO  leader begin to merge model
+2023-03-06 06:35:34,206  service.services : INFO  Merging models costs 0.0072019100189208984 s
+loss= 0.017189735546708107
+2023-03-06 06:35:35,209  service.services : INFO  准确率为: 99.27 %
+
+2023-03-06 06:35:35,211  service.leader : INFO  global epoch 2 costs[ms]=50397	total[ms]=108333
+2023-03-06 06:35:35,217  service.leader : INFO  send model to 10.0.1.1:12333
+2023-03-06 06:35:35,217  service.leader : INFO  send model to 10.1.1.1:12333
+2023-03-06 06:35:35,218  service.leader : INFO  send model to 10.2.1.1:12333
+2023-03-06 06:35:35,218  service.leader : INFO  send model to 10.3.1.1:12333
+2023-03-06 06:35:35,218  service.leader : INFO  send model to 10.4.1.1:12333
+2023-03-06 06:35:35,218  service.leader : INFO  send model to 10.5.1.1:12333
+2023-03-06 06:35:35,219  service.leader : INFO  send model to 10.6.1.1:12333
+2023-03-06 06:35:35,219  service.leader : INFO  send model to 10.7.1.1:12333
+2023-03-06 06:35:35,219  service.leader : INFO  send model to 10.8.1.1:12333
+===========================global epoch 2===========================
+2023-03-06 06:36:23,493  service.services : INFO  local training costs 48.26343560218811 s
+2023-03-06 06:36:23,500  service.services : INFO  collect model from id: 10.8.1.1:12333
+2023-03-06 06:36:23,503  service.services : INFO  collect model from id: 10.6.1.1:12333
+2023-03-06 06:36:23,507  service.services : INFO  collect model from id: 10.3.1.1:12333
+2023-03-06 06:36:23,511  service.services : INFO  collect model from id: 10.2.1.1:12333
+2023-03-06 06:36:23,515  service.services : INFO  collect model from id: 10.5.1.1:12333
+2023-03-06 06:36:23,756  service.services : INFO  collect model from id: 10.1.1.1:12333
+2023-03-06 06:36:24,154  service.services : INFO  collect model from id: 10.4.1.1:12333
+2023-03-06 06:36:24,387  service.services : INFO  collect model from id: 10.0.1.1:12333
+2023-03-06 06:36:24,395  service.services : INFO  collect model from id: 10.7.1.1:12333
+2023-03-06 06:36:24,401  service.services : INFO  leader begin to merge model
+2023-03-06 06:36:24,408  service.services : INFO  Merging models costs 0.005923748016357422 s
+loss= 0.0004340811865404248
+2023-03-06 06:36:25,421  service.services : INFO  准确率为: 99.37 %
+
+2023-03-06 06:36:25,423  service.leader : INFO  global epoch 3 costs[ms]=50211	total[ms]=158544
+2023-03-06 06:36:25,429  service.leader : INFO  send model to 10.0.1.1:12333
+2023-03-06 06:36:25,429  service.leader : INFO  send model to 10.1.1.1:12333
+2023-03-06 06:36:25,430  service.leader : INFO  send model to 10.2.1.1:12333
+2023-03-06 06:36:25,430  service.leader : INFO  send model to 10.3.1.1:12333
+2023-03-06 06:36:25,430  service.leader : INFO  send model to 10.4.1.1:12333
+2023-03-06 06:36:25,430  service.leader : INFO  send model to 10.5.1.1:12333
+2023-03-06 06:36:25,430  service.leader : INFO  send model to 10.6.1.1:12333
+2023-03-06 06:36:25,431  service.leader : INFO  send model to 10.7.1.1:12333
+2023-03-06 06:36:25,431  service.leader : INFO  send model to 10.8.1.1:12333
+===========================global epoch 3===========================
+2023-03-06 06:37:13,722  service.services : INFO  local training costs 48.27606916427612 s
+2023-03-06 06:37:13,730  service.services : INFO  collect model from id: 10.1.1.1:12333
+2023-03-06 06:37:13,737  service.services : INFO  collect model from id: 10.3.1.1:12333
+2023-03-06 06:37:13,749  service.services : INFO  collect model from id: 10.5.1.1:12333
+2023-03-06 06:37:13,922  service.services : INFO  collect model from id: 10.8.1.1:12333
+2023-03-06 06:37:13,989  service.services : INFO  collect model from id: 10.2.1.1:12333
+2023-03-06 06:37:13,996  service.services : INFO  collect model from id: 10.6.1.1:12333
+2023-03-06 06:37:14,051  service.services : INFO  collect model from id: 10.4.1.1:12333
+2023-03-06 06:37:14,210  service.services : INFO  collect model from id: 10.7.1.1:12333
+2023-03-06 06:37:14,762  service.services : INFO  collect model from id: 10.0.1.1:12333
+2023-03-06 06:37:14,770  service.services : INFO  leader begin to merge model
+2023-03-06 06:37:14,778  service.services : INFO  Merging models costs 0.00813913345336914 s
+loss= 0.0003442192100919783
+2023-03-06 06:37:15,749  service.services : INFO  准确率为: 99.36 %
+
+2023-03-06 06:37:15,751  service.leader : INFO  global epoch 4 costs[ms]=50327	total[ms]=208872
+2023-03-06 06:37:15,754  service.leader : INFO  send model to 10.0.1.1:12333
+2023-03-06 06:37:15,754  service.leader : INFO  send model to 10.1.1.1:12333
+2023-03-06 06:37:15,754  service.leader : INFO  send model to 10.2.1.1:12333
+2023-03-06 06:37:15,754  service.leader : INFO  send model to 10.3.1.1:12333
+2023-03-06 06:37:15,755  service.leader : INFO  send model to 10.4.1.1:12333
+2023-03-06 06:37:15,755  service.leader : INFO  send model to 10.5.1.1:12333
+2023-03-06 06:37:15,755  service.leader : INFO  send model to 10.6.1.1:12333
+2023-03-06 06:37:15,755  service.leader : INFO  send model to 10.7.1.1:12333
+2023-03-06 06:37:15,755  service.leader : INFO  send model to 10.8.1.1:12333
+===========================global epoch 4===========================
+2023-03-06 06:38:04,142  service.services : INFO  local training costs 48.37802028656006 s
+2023-03-06 06:38:04,151  service.services : INFO  collect model from id: 10.3.1.1:12333
+2023-03-06 06:38:04,156  service.services : INFO  collect model from id: 10.2.1.1:12333
+2023-03-06 06:38:04,160  service.services : INFO  collect model from id: 10.8.1.1:12333
+2023-03-06 06:38:04,163  service.services : INFO  collect model from id: 10.6.1.1:12333
+2023-03-06 06:38:04,167  service.services : INFO  collect model from id: 10.1.1.1:12333
+2023-03-06 06:38:04,172  service.services : INFO  collect model from id: 10.5.1.1:12333
+2023-03-06 06:38:04,527  service.services : INFO  collect model from id: 10.4.1.1:12333
+2023-03-06 06:38:04,571  service.services : INFO  collect model from id: 10.0.1.1:12333
+2023-03-06 06:38:04,828  service.services : INFO  collect model from id: 10.7.1.1:12333
+2023-03-06 06:38:04,835  service.services : INFO  leader begin to merge model
+2023-03-06 06:38:04,843  service.services : INFO  Merging models costs 0.007871389389038086 s
+loss= 0.0009926188504323363
+2023-03-06 06:38:05,784  service.services : INFO  准确率为: 99.4 %
+
+2023-03-06 06:38:05,786  service.leader : INFO  global epoch 5 costs[ms]=50035	total[ms]=258908
+2023-03-06 06:38:05,792  service.leader : INFO  send model to 10.0.1.1:12333
+2023-03-06 06:38:05,792  service.leader : INFO  send model to 10.1.1.1:12333
+2023-03-06 06:38:05,792  service.leader : INFO  send model to 10.2.1.1:12333
+2023-03-06 06:38:05,792  service.leader : INFO  send model to 10.3.1.1:12333
+2023-03-06 06:38:05,793  service.leader : INFO  send model to 10.4.1.1:12333
+2023-03-06 06:38:05,793  service.leader : INFO  send model to 10.5.1.1:12333
+2023-03-06 06:38:05,793  service.leader : INFO  send model to 10.6.1.1:12333
+2023-03-06 06:38:05,793  service.leader : INFO  send model to 10.7.1.1:12333
+2023-03-06 06:38:05,793  service.leader : INFO  send model to 10.8.1.1:12333
+===========================global epoch 5===========================
+2023-03-06 06:38:54,390  service.services : INFO  local training costs 48.5885591506958 s
+2023-03-06 06:38:54,399  service.services : INFO  collect model from id: 10.8.1.1:12333
+2023-03-06 06:38:54,403  service.services : INFO  collect model from id: 10.0.1.1:12333
+2023-03-06 06:38:54,406  service.services : INFO  collect model from id: 10.3.1.1:12333
+2023-03-06 06:38:54,409  service.services : INFO  collect model from id: 10.6.1.1:12333
+2023-03-06 06:38:54,413  service.services : INFO  collect model from id: 10.1.1.1:12333
+2023-03-06 06:38:54,416  service.services : INFO  collect model from id: 10.4.1.1:12333
+2023-03-06 06:38:54,420  service.services : INFO  collect model from id: 10.5.1.1:12333
+2023-03-06 06:38:54,532  service.services : INFO  collect model from id: 10.2.1.1:12333
+2023-03-06 06:38:54,812  service.services : INFO  collect model from id: 10.7.1.1:12333
+2023-03-06 06:38:54,819  service.services : INFO  leader begin to merge model
+2023-03-06 06:38:54,826  service.services : INFO  Merging models costs 0.006827116012573242 s
+loss= 0.00016933858569245785
+2023-03-06 06:38:55,709  service.services : INFO  准确率为: 99.42 %
+
+2023-03-06 06:38:55,710  service.leader : INFO  global epoch 6 costs[ms]=49924	total[ms]=308832
+2023-03-06 06:38:55,716  service.leader : INFO  send model to 10.0.1.1:12333
+2023-03-06 06:38:55,716  service.leader : INFO  send model to 10.1.1.1:12333
+2023-03-06 06:38:55,717  service.leader : INFO  send model to 10.2.1.1:12333
+2023-03-06 06:38:55,717  service.leader : INFO  send model to 10.3.1.1:12333
+2023-03-06 06:38:55,717  service.leader : INFO  send model to 10.4.1.1:12333
+2023-03-06 06:38:55,717  service.leader : INFO  send model to 10.5.1.1:12333
+2023-03-06 06:38:55,717  service.leader : INFO  send model to 10.6.1.1:12333
+2023-03-06 06:38:55,717  service.leader : INFO  send model to 10.7.1.1:12333
+2023-03-06 06:38:55,717  service.leader : INFO  send model to 10.8.1.1:12333
+===========================global epoch 6===========================
+2023-03-06 06:39:43,709  service.services : INFO  local training costs 47.982489585876465 s
+2023-03-06 06:39:43,717  service.services : INFO  collect model from id: 10.1.1.1:12333
+2023-03-06 06:39:43,723  service.services : INFO  collect model from id: 10.8.1.1:12333
+2023-03-06 06:39:43,729  service.services : INFO  collect model from id: 10.5.1.1:12333
+2023-03-06 06:39:43,942  service.services : INFO  collect model from id: 10.7.1.1:12333
+2023-03-06 06:39:44,032  service.services : INFO  collect model from id: 10.6.1.1:12333
+2023-03-06 06:39:44,296  service.services : INFO  collect model from id: 10.2.1.1:12333
+2023-03-06 06:39:44,404  service.services : INFO  collect model from id: 10.0.1.1:12333
+2023-03-06 06:39:44,567  service.services : INFO  collect model from id: 10.3.1.1:12333
+2023-03-06 06:39:45,080  service.services : INFO  collect model from id: 10.4.1.1:12333
+2023-03-06 06:39:45,087  service.services : INFO  leader begin to merge model
+2023-03-06 06:39:45,094  service.services : INFO  Merging models costs 0.00713348388671875 s
+loss= 0.0007542513194493949
+2023-03-06 06:39:46,017  service.services : INFO  准确率为: 99.48 %
+
+2023-03-06 06:39:46,019  service.leader : INFO  global epoch 7 costs[ms]=50308	total[ms]=359140
+2023-03-06 06:39:46,025  service.leader : INFO  send model to 10.0.1.1:12333
+2023-03-06 06:39:46,025  service.leader : INFO  send model to 10.1.1.1:12333
+2023-03-06 06:39:46,026  service.leader : INFO  send model to 10.2.1.1:12333
+2023-03-06 06:39:46,026  service.leader : INFO  send model to 10.3.1.1:12333
+2023-03-06 06:39:46,026  service.leader : INFO  send model to 10.4.1.1:12333
+2023-03-06 06:39:46,027  service.leader : INFO  send model to 10.5.1.1:12333
+2023-03-06 06:39:46,027  service.leader : INFO  send model to 10.6.1.1:12333
+2023-03-06 06:39:46,027  service.leader : INFO  send model to 10.7.1.1:12333
+2023-03-06 06:39:46,027  service.leader : INFO  send model to 10.8.1.1:12333
+===========================global epoch 7===========================
+2023-03-06 06:40:33,880  service.services : INFO  local training costs 47.84073281288147 s
+2023-03-06 06:40:33,885  service.services : INFO  collect model from id: 10.5.1.1:12333
+2023-03-06 06:40:33,927  service.services : INFO  collect model from id: 10.1.1.1:12333
+2023-03-06 06:40:34,093  service.services : INFO  collect model from id: 10.3.1.1:12333
+2023-03-06 06:40:34,097  service.services : INFO  collect model from id: 10.8.1.1:12333
+2023-03-06 06:40:34,131  service.services : INFO  collect model from id: 10.2.1.1:12333
+2023-03-06 06:40:34,541  service.services : INFO  collect model from id: 10.6.1.1:12333
+2023-03-06 06:40:34,606  service.services : INFO  collect model from id: 10.7.1.1:12333
+2023-03-06 06:40:34,839  service.services : INFO  collect model from id: 10.0.1.1:12333
+2023-03-06 06:40:35,285  service.services : INFO  collect model from id: 10.4.1.1:12333
+2023-03-06 06:40:35,293  service.services : INFO  leader begin to merge model
+2023-03-06 06:40:35,299  service.services : INFO  Merging models costs 0.0060138702392578125 s
+loss= 0.0001868789695436135
+2023-03-06 06:40:36,223  service.services : INFO  准确率为: 99.39 %
+
+2023-03-06 06:40:36,225  service.leader : INFO  global epoch 8 costs[ms]=50206	total[ms]=409346
+2023-03-06 06:40:36,231  service.leader : INFO  send model to 10.0.1.1:12333
+2023-03-06 06:40:36,232  service.leader : INFO  send model to 10.1.1.1:12333
+2023-03-06 06:40:36,232  service.leader : INFO  send model to 10.2.1.1:12333
+2023-03-06 06:40:36,232  service.leader : INFO  send model to 10.3.1.1:12333
+2023-03-06 06:40:36,232  service.leader : INFO  send model to 10.4.1.1:12333
+2023-03-06 06:40:36,233  service.leader : INFO  send model to 10.5.1.1:12333
+2023-03-06 06:40:36,233  service.leader : INFO  send model to 10.6.1.1:12333
+2023-03-06 06:40:36,233  service.leader : INFO  send model to 10.7.1.1:12333
+2023-03-06 06:40:36,233  service.leader : INFO  send model to 10.8.1.1:12333
+===========================global epoch 8===========================
+2023-03-06 06:41:24,433  service.services : INFO  local training costs 48.184534549713135 s
+2023-03-06 06:41:24,441  service.services : INFO  collect model from id: 10.1.1.1:12333
+2023-03-06 06:41:24,446  service.services : INFO  collect model from id: 10.3.1.1:12333
+2023-03-06 06:41:24,452  service.services : INFO  collect model from id: 10.5.1.1:12333
+2023-03-06 06:41:24,533  service.services : INFO  collect model from id: 10.2.1.1:12333
+2023-03-06 06:41:24,565  service.services : INFO  collect model from id: 10.6.1.1:12333
+2023-03-06 06:41:25,122  service.services : INFO  collect model from id: 10.7.1.1:12333
+2023-03-06 06:41:25,169  service.services : INFO  collect model from id: 10.0.1.1:12333
+2023-03-06 06:41:25,176  service.services : INFO  collect model from id: 10.4.1.1:12333
+2023-03-06 06:41:25,179  service.services : INFO  collect model from id: 10.8.1.1:12333
+2023-03-06 06:41:25,183  service.services : INFO  leader begin to merge model
+2023-03-06 06:41:25,188  service.services : INFO  Merging models costs 0.0051457881927490234 s
+loss= 0.002007031813263893
+2023-03-06 06:41:26,087  service.services : INFO  准确率为: 99.38 %
+
+2023-03-06 06:41:26,088  service.leader : INFO  global epoch 9 costs[ms]=49863	total[ms]=459210
+2023-03-06 06:41:26,093  service.leader : INFO  send model to 10.0.1.1:12333
+2023-03-06 06:41:26,094  service.leader : INFO  send model to 10.1.1.1:12333
+2023-03-06 06:41:26,094  service.leader : INFO  send model to 10.2.1.1:12333
+2023-03-06 06:41:26,094  service.leader : INFO  send model to 10.3.1.1:12333
+2023-03-06 06:41:26,094  service.leader : INFO  send model to 10.4.1.1:12333
+2023-03-06 06:41:26,094  service.leader : INFO  send model to 10.5.1.1:12333
+2023-03-06 06:41:26,094  service.leader : INFO  send model to 10.6.1.1:12333
+2023-03-06 06:41:26,095  service.leader : INFO  send model to 10.7.1.1:12333
+2023-03-06 06:41:26,095  service.leader : INFO  send model to 10.8.1.1:12333
+===========================global epoch 9===========================
+2023-03-06 06:42:14,052  service.services : INFO  local training costs 47.94791078567505 s
+2023-03-06 06:42:14,060  service.services : INFO  collect model from id: 10.6.1.1:12333
+2023-03-06 06:42:14,067  service.services : INFO  collect model from id: 10.5.1.1:12333
+2023-03-06 06:42:14,516  service.services : INFO  collect model from id: 10.1.1.1:12333
+2023-03-06 06:42:14,577  service.services : INFO  collect model from id: 10.8.1.1:12333
+2023-03-06 06:42:14,936  service.services : INFO  collect model from id: 10.2.1.1:12333
+2023-03-06 06:42:15,004  service.services : INFO  collect model from id: 10.3.1.1:12333
+2023-03-06 06:42:15,084  service.services : INFO  collect model from id: 10.7.1.1:12333
+2023-03-06 06:42:15,092  service.services : INFO  collect model from id: 10.0.1.1:12333
+2023-03-06 06:42:15,384  service.services : INFO  collect model from id: 10.4.1.1:12333
+2023-03-06 06:42:15,391  service.services : INFO  leader begin to merge model
+2023-03-06 06:42:15,399  service.services : INFO  Merging models costs 0.007928133010864258 s
+loss= 0.00010447231761645526
+2023-03-06 06:42:16,335  service.services : INFO  准确率为: 99.35 %
+
+2023-03-06 06:42:16,337  service.leader : INFO  global epoch 9 costs[ms]=50248	total[ms]=509459

@@ -4,6 +4,7 @@ import logging
 logging.basicConfig(format='%(asctime)s  %(name)s : %(levelname)s  %(message)s')
 
 
+
 class Properties:
     logger: logging.Logger = None
     _conf: dict = None
@@ -13,11 +14,12 @@ class Properties:
     TRAINER_SERVER_THREADS = "trainer.server.threads"
     TRAINER_CLIENT_THREADS = "trainer.client.threads"
     TRAINER_CLUSTER = "trainer.cluster"
+    TRAINER_MERGE_BOUND = "trainer.server.merge-bound"
 
     GRPC_CLIENT_OPTIONS = [('grpc.max_send_message_length', 512 * 1024 * 1024),
                            ('grpc.max_receive_message_length', 512 * 1024 * 1024)]
 
-    LOGGING_LEVEL = logging.DEBUG
+    LOGGING_LEVEL = logging.INFO
 
     @classmethod
     def init(cls):

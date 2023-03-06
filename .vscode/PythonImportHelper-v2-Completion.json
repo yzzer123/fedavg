@@ -1,0 +1,2511 @@
+[
+    {
+        "label": "torch",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch",
+        "description": "torch",
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "nn",
+        "importPath": "torch",
+        "description": "torch",
+        "isExtraImport": true,
+        "detail": "torch",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "Dataset",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "DataLoader",
+        "importPath": "torch.utils.data",
+        "description": "torch.utils.data",
+        "isExtraImport": true,
+        "detail": "torch.utils.data",
+        "documentation": {}
+    },
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "OrderedDict",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "AsyncIterable",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Iterator",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "BasicModel",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "LocalEnvironment",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "BasicModel",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "LocalEnvironment",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "BasicModel",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "LocalEnvironment",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "BasicModel",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "BasicModel",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "BasicModel",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "LocalEnvironment",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetMNIST",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetMNIST",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "BasicModel",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetMNIST",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "BasicModel",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "time",
+        "description": "time",
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "time",
+        "importPath": "time",
+        "description": "time",
+        "isExtraImport": true,
+        "detail": "time",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "datasets",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "datasets",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "transforms",
+        "importPath": "torchvision",
+        "description": "torchvision",
+        "isExtraImport": true,
+        "detail": "torchvision",
+        "documentation": {}
+    },
+    {
+        "label": "torch.nn.functional",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "torch.nn.functional",
+        "description": "torch.nn.functional",
+        "detail": "torch.nn.functional",
+        "documentation": {}
+    },
+    {
+        "label": "resnet18",
+        "importPath": "torchvision.models",
+        "description": "torchvision.models",
+        "isExtraImport": true,
+        "detail": "torchvision.models",
+        "documentation": {}
+    },
+    {
+        "label": "Properties",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_chunks",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "Properties",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "Properties",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_chunks",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "TimeMetric",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "Properties",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "Properties",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_chunks",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "chunks_to_model",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_chunks",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "chunks_to_model",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_chunks",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "Properties",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "Mininet",
+        "importPath": "mininet.net",
+        "description": "mininet.net",
+        "isExtraImport": true,
+        "detail": "mininet.net",
+        "documentation": {}
+    },
+    {
+        "label": "CLI",
+        "importPath": "mininet.cli",
+        "description": "mininet.cli",
+        "isExtraImport": true,
+        "detail": "mininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "CLI",
+        "importPath": "mininet.cli",
+        "description": "mininet.cli",
+        "isExtraImport": true,
+        "detail": "mininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "lg",
+        "importPath": "mininet.log",
+        "description": "mininet.log",
+        "isExtraImport": true,
+        "detail": "mininet.log",
+        "documentation": {}
+    },
+    {
+        "label": "info",
+        "importPath": "mininet.log",
+        "description": "mininet.log",
+        "isExtraImport": true,
+        "detail": "mininet.log",
+        "documentation": {}
+    },
+    {
+        "label": "setLogLevel",
+        "importPath": "mininet.log",
+        "description": "mininet.log",
+        "isExtraImport": true,
+        "detail": "mininet.log",
+        "documentation": {}
+    },
+    {
+        "label": "Node",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "OVSSwitch",
+        "importPath": "mininet.node",
+        "description": "mininet.node",
+        "isExtraImport": true,
+        "detail": "mininet.node",
+        "documentation": {}
+    },
+    {
+        "label": "TreeTopo",
+        "importPath": "mininet.topolib",
+        "description": "mininet.topolib",
+        "isExtraImport": true,
+        "detail": "mininet.topolib",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNet",
+        "importPath": "mininet.topolib",
+        "description": "mininet.topolib",
+        "isExtraImport": true,
+        "detail": "mininet.topolib",
+        "documentation": {}
+    },
+    {
+        "label": "waitListening",
+        "importPath": "mininet.util",
+        "description": "mininet.util",
+        "isExtraImport": true,
+        "detail": "mininet.util",
+        "documentation": {}
+    },
+    {
+        "label": "HostV4",
+        "importPath": "mininet.examples.treeping64",
+        "description": "mininet.examples.treeping64",
+        "isExtraImport": true,
+        "detail": "mininet.examples.treeping64",
+        "documentation": {}
+    },
+    {
+        "label": "S",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "S",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "S",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "S",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "S",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "S",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "S",
+        "importPath": "re",
+        "description": "re",
+        "isExtraImport": true,
+        "detail": "re",
+        "documentation": {}
+    },
+    {
+        "label": "IPTopo",
+        "importPath": "ipmininet.iptopo",
+        "description": "ipmininet.iptopo",
+        "isExtraImport": true,
+        "detail": "ipmininet.iptopo",
+        "documentation": {}
+    },
+    {
+        "label": "IPTopo",
+        "importPath": "ipmininet.iptopo",
+        "description": "ipmininet.iptopo",
+        "isExtraImport": true,
+        "detail": "ipmininet.iptopo",
+        "documentation": {}
+    },
+    {
+        "label": "IPTopo",
+        "importPath": "ipmininet.iptopo",
+        "description": "ipmininet.iptopo",
+        "isExtraImport": true,
+        "detail": "ipmininet.iptopo",
+        "documentation": {}
+    },
+    {
+        "label": "IPTopo",
+        "importPath": "ipmininet.iptopo",
+        "description": "ipmininet.iptopo",
+        "isExtraImport": true,
+        "detail": "ipmininet.iptopo",
+        "documentation": {}
+    },
+    {
+        "label": "IPTopo",
+        "importPath": "ipmininet.iptopo",
+        "description": "ipmininet.iptopo",
+        "isExtraImport": true,
+        "detail": "ipmininet.iptopo",
+        "documentation": {}
+    },
+    {
+        "label": "IPTopo",
+        "importPath": "ipmininet.iptopo",
+        "description": "ipmininet.iptopo",
+        "isExtraImport": true,
+        "detail": "ipmininet.iptopo",
+        "documentation": {}
+    },
+    {
+        "label": "IPTopo",
+        "importPath": "ipmininet.iptopo",
+        "description": "ipmininet.iptopo",
+        "isExtraImport": true,
+        "detail": "ipmininet.iptopo",
+        "documentation": {}
+    },
+    {
+        "label": "IPTopo",
+        "importPath": "ipmininet.iptopo",
+        "description": "ipmininet.iptopo",
+        "isExtraImport": true,
+        "detail": "ipmininet.iptopo",
+        "documentation": {}
+    },
+    {
+        "label": "IPTopo",
+        "importPath": "ipmininet.iptopo",
+        "description": "ipmininet.iptopo",
+        "isExtraImport": true,
+        "detail": "ipmininet.iptopo",
+        "documentation": {}
+    },
+    {
+        "label": "RouterConfig",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoute",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "RouterConfig",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoute",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "RouterConfig",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoute",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "RouterConfig",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoute",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "RouterConfig",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoute",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "RouterConfig",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoute",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "RouterConfig",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoute",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "RouterConfig",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoute",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "RouterConfig",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoute",
+        "importPath": "ipmininet.router.config",
+        "description": "ipmininet.router.config",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config",
+        "documentation": {}
+    },
+    {
+        "label": "IPNet",
+        "importPath": "ipmininet.ipnet",
+        "description": "ipmininet.ipnet",
+        "isExtraImport": true,
+        "detail": "ipmininet.ipnet",
+        "documentation": {}
+    },
+    {
+        "label": "IPNet",
+        "importPath": "ipmininet.ipnet",
+        "description": "ipmininet.ipnet",
+        "isExtraImport": true,
+        "detail": "ipmininet.ipnet",
+        "documentation": {}
+    },
+    {
+        "label": "IPNet",
+        "importPath": "ipmininet.ipnet",
+        "description": "ipmininet.ipnet",
+        "isExtraImport": true,
+        "detail": "ipmininet.ipnet",
+        "documentation": {}
+    },
+    {
+        "label": "IPNet",
+        "importPath": "ipmininet.ipnet",
+        "description": "ipmininet.ipnet",
+        "isExtraImport": true,
+        "detail": "ipmininet.ipnet",
+        "documentation": {}
+    },
+    {
+        "label": "IPNet",
+        "importPath": "ipmininet.ipnet",
+        "description": "ipmininet.ipnet",
+        "isExtraImport": true,
+        "detail": "ipmininet.ipnet",
+        "documentation": {}
+    },
+    {
+        "label": "IPNet",
+        "importPath": "ipmininet.ipnet",
+        "description": "ipmininet.ipnet",
+        "isExtraImport": true,
+        "detail": "ipmininet.ipnet",
+        "documentation": {}
+    },
+    {
+        "label": "IPNet",
+        "importPath": "ipmininet.ipnet",
+        "description": "ipmininet.ipnet",
+        "isExtraImport": true,
+        "detail": "ipmininet.ipnet",
+        "documentation": {}
+    },
+    {
+        "label": "IPNet",
+        "importPath": "ipmininet.ipnet",
+        "description": "ipmininet.ipnet",
+        "isExtraImport": true,
+        "detail": "ipmininet.ipnet",
+        "documentation": {}
+    },
+    {
+        "label": "IPNet",
+        "importPath": "ipmininet.ipnet",
+        "description": "ipmininet.ipnet",
+        "isExtraImport": true,
+        "detail": "ipmininet.ipnet",
+        "documentation": {}
+    },
+    {
+        "label": "IPCLI",
+        "importPath": "ipmininet.cli",
+        "description": "ipmininet.cli",
+        "isExtraImport": true,
+        "detail": "ipmininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "IPCLI",
+        "importPath": "ipmininet.cli",
+        "description": "ipmininet.cli",
+        "isExtraImport": true,
+        "detail": "ipmininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "IPCLI",
+        "importPath": "ipmininet.cli",
+        "description": "ipmininet.cli",
+        "isExtraImport": true,
+        "detail": "ipmininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "IPCLI",
+        "importPath": "ipmininet.cli",
+        "description": "ipmininet.cli",
+        "isExtraImport": true,
+        "detail": "ipmininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "IPCLI",
+        "importPath": "ipmininet.cli",
+        "description": "ipmininet.cli",
+        "isExtraImport": true,
+        "detail": "ipmininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "IPCLI",
+        "importPath": "ipmininet.cli",
+        "description": "ipmininet.cli",
+        "isExtraImport": true,
+        "detail": "ipmininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "IPCLI",
+        "importPath": "ipmininet.cli",
+        "description": "ipmininet.cli",
+        "isExtraImport": true,
+        "detail": "ipmininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "IPCLI",
+        "importPath": "ipmininet.cli",
+        "description": "ipmininet.cli",
+        "isExtraImport": true,
+        "detail": "ipmininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "IPCLI",
+        "importPath": "ipmininet.cli",
+        "description": "ipmininet.cli",
+        "isExtraImport": true,
+        "detail": "ipmininet.cli",
+        "documentation": {}
+    },
+    {
+        "label": "find_executable",
+        "importPath": "distutils.spawn",
+        "description": "distutils.spawn",
+        "isExtraImport": true,
+        "detail": "distutils.spawn",
+        "documentation": {}
+    },
+    {
+        "label": "subprocess",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "subprocess",
+        "description": "subprocess",
+        "detail": "subprocess",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "tempfile",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "tempfile",
+        "description": "tempfile",
+        "detail": "tempfile",
+        "documentation": {}
+    },
+    {
+        "label": "Daemon",
+        "importPath": "ipmininet.router.config.base",
+        "description": "ipmininet.router.config.base",
+        "isExtraImport": true,
+        "detail": "ipmininet.router.config.base",
+        "documentation": {}
+    },
+    {
+        "label": "USA_CITIES",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG_NODES",
+        "importPath": "data",
+        "description": "data",
+        "isExtraImport": true,
+        "detail": "data",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "datetime",
+        "description": "datetime",
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "importPath": "google.protobuf.internal",
+        "description": "google.protobuf.internal",
+        "isExtraImport": true,
+        "detail": "google.protobuf.internal",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "importPath": "google.protobuf.internal",
+        "description": "google.protobuf.internal",
+        "isExtraImport": true,
+        "detail": "google.protobuf.internal",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "importPath": "google.protobuf.internal",
+        "description": "google.protobuf.internal",
+        "isExtraImport": true,
+        "detail": "google.protobuf.internal",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "importPath": "google.protobuf.internal",
+        "description": "google.protobuf.internal",
+        "isExtraImport": true,
+        "detail": "google.protobuf.internal",
+        "documentation": {}
+    },
+    {
+        "label": "builder",
+        "importPath": "google.protobuf.internal",
+        "description": "google.protobuf.internal",
+        "isExtraImport": true,
+        "detail": "google.protobuf.internal",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor_pool",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "symbol_database",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor_pool",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "symbol_database",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor_pool",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "symbol_database",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor_pool",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "symbol_database",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "descriptor_pool",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "symbol_database",
+        "importPath": "google.protobuf",
+        "description": "google.protobuf",
+        "isExtraImport": true,
+        "detail": "google.protobuf",
+        "documentation": {}
+    },
+    {
+        "label": "grpc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "grpc",
+        "description": "grpc",
+        "detail": "grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ServicerContext",
+        "importPath": "grpc",
+        "description": "grpc",
+        "isExtraImport": true,
+        "detail": "grpc",
+        "documentation": {}
+    },
+    {
+        "label": "manager_message_pb2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "manager_message_pb2",
+        "description": "manager_message_pb2",
+        "detail": "manager_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "jobmanager_message_pb2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "jobmanager_message_pb2",
+        "description": "jobmanager_message_pb2",
+        "detail": "jobmanager_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "rpc.jobmanager_message_pb2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rpc.jobmanager_message_pb2",
+        "description": "rpc.jobmanager_message_pb2",
+        "detail": "rpc.jobmanager_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "rpc.manager_message_pb2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rpc.manager_message_pb2",
+        "description": "rpc.manager_message_pb2",
+        "detail": "rpc.manager_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "trainer_message_pb2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "trainer_message_pb2",
+        "description": "trainer_message_pb2",
+        "detail": "trainer_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "rpc",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "rpc",
+        "description": "rpc",
+        "detail": "rpc",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "rpc",
+        "description": "rpc",
+        "isExtraImport": true,
+        "detail": "rpc",
+        "documentation": {}
+    },
+    {
+        "label": "TrainRequest",
+        "importPath": "rpc",
+        "description": "rpc",
+        "isExtraImport": true,
+        "detail": "rpc",
+        "documentation": {}
+    },
+    {
+        "label": "InitModelRequest",
+        "importPath": "rpc",
+        "description": "rpc",
+        "isExtraImport": true,
+        "detail": "rpc",
+        "documentation": {}
+    },
+    {
+        "label": "trainer_service_pb2_grpc",
+        "importPath": "rpc",
+        "description": "rpc",
+        "isExtraImport": true,
+        "detail": "rpc",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "rpc",
+        "description": "rpc",
+        "isExtraImport": true,
+        "detail": "rpc",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "rpc",
+        "description": "rpc",
+        "isExtraImport": true,
+        "detail": "rpc",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "rpc",
+        "description": "rpc",
+        "isExtraImport": true,
+        "detail": "rpc",
+        "documentation": {}
+    },
+    {
+        "label": "random",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "random",
+        "description": "random",
+        "detail": "random",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerClient",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerService",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "JobSubmitClient",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerServer",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "Leader",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerClient",
+        "importPath": "service",
+        "description": "service",
+        "isExtraImport": true,
+        "detail": "service",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "Lock",
+        "importPath": "threading",
+        "description": "threading",
+        "isExtraImport": true,
+        "detail": "threading",
+        "documentation": {}
+    },
+    {
+        "label": "asyncio",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "asyncio",
+        "description": "asyncio",
+        "detail": "asyncio",
+        "documentation": {}
+    },
+    {
+        "label": "CancelledError",
+        "importPath": "concurrent.futures._base",
+        "description": "concurrent.futures._base",
+        "isExtraImport": true,
+        "detail": "concurrent.futures._base",
+        "documentation": {}
+    },
+    {
+        "label": "futures",
+        "importPath": "concurrent",
+        "description": "concurrent",
+        "isExtraImport": true,
+        "detail": "concurrent",
+        "documentation": {}
+    },
+    {
+        "label": "Dog",
+        "importPath": "pickle_model",
+        "description": "pickle_model",
+        "isExtraImport": true,
+        "detail": "pickle_model",
+        "documentation": {}
+    },
+    {
+        "label": "Dog",
+        "importPath": "test.pickle_model",
+        "description": "test.pickle_model",
+        "isExtraImport": true,
+        "detail": "test.pickle_model",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "copy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "copy",
+        "description": "copy",
+        "detail": "copy",
+        "documentation": {}
+    },
+    {
+        "label": "Properties",
+        "importPath": "utils.Configuration",
+        "description": "utils.Configuration",
+        "isExtraImport": true,
+        "detail": "utils.Configuration",
+        "documentation": {}
+    },
+    {
+        "label": "ceil",
+        "importPath": "math",
+        "description": "math",
+        "isExtraImport": true,
+        "detail": "math",
+        "documentation": {}
+    },
+    {
+        "label": "reduce",
+        "importPath": "functools",
+        "description": "functools",
+        "isExtraImport": true,
+        "detail": "functools",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetMNIST",
+        "importPath": "models.ResNet",
+        "description": "models.ResNet",
+        "isExtraImport": true,
+        "detail": "models.ResNet",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetCIFAR10",
+        "importPath": "models.ResNet",
+        "description": "models.ResNet",
+        "isExtraImport": true,
+        "detail": "models.ResNet",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetCIFAR10",
+        "importPath": "models.ResNet",
+        "description": "models.ResNet",
+        "isExtraImport": true,
+        "detail": "models.ResNet",
+        "documentation": {}
+    },
+    {
+        "label": "sys,",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys.",
+        "description": "sys.",
+        "detail": "sys.",
+        "documentation": {}
+    },
+    {
+        "label": "obj_test",
+        "importPath": "test.test_pickle",
+        "description": "test.test_pickle",
+        "isExtraImport": true,
+        "detail": "test.test_pickle",
+        "documentation": {}
+    },
+    {
+        "label": "performace_test",
+        "importPath": "test.test_pickle",
+        "description": "test.test_pickle",
+        "isExtraImport": true,
+        "detail": "test.test_pickle",
+        "documentation": {}
+    },
+    {
+        "label": "test_model",
+        "importPath": "test.test_pickle",
+        "description": "test.test_pickle",
+        "isExtraImport": true,
+        "detail": "test.test_pickle",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "importPath": "test.train_test",
+        "description": "test.train_test",
+        "isExtraImport": true,
+        "detail": "test.train_test",
+        "documentation": {}
+    },
+    {
+        "label": "LocalEnvironment",
+        "importPath": "models.BasicModel",
+        "description": "models.BasicModel",
+        "isExtraImport": true,
+        "detail": "models.BasicModel",
+        "documentation": {}
+    },
+    {
+        "label": "LocalEnvironment",
+        "kind": 6,
+        "importPath": "models.BasicModel",
+        "description": "models.BasicModel",
+        "peekOfCode": "class LocalEnvironment(object):\n    def __init__(self) -> None:\n        self.train_loader, self.test_loader = None, None\n        self.device = None\nclass BasicModel(nn.Module):\n    def __init__(self, local_num_epoch=5) -> None:\n        super().__init__()\n        # 初始化时放置全局超参\n        self.local_num_epoch = local_num_epoch\n        self.data_size = 0        ",
+        "detail": "models.BasicModel",
+        "documentation": {}
+    },
+    {
+        "label": "BasicModel",
+        "kind": 6,
+        "importPath": "models.BasicModel",
+        "description": "models.BasicModel",
+        "peekOfCode": "class BasicModel(nn.Module):\n    def __init__(self, local_num_epoch=5) -> None:\n        super().__init__()\n        # 初始化时放置全局超参\n        self.local_num_epoch = local_num_epoch\n        self.data_size = 0        \n    def merge(self, models: List[nn.Module], total_data_size: int, env: LocalEnvironment) -> nn.Module:\n        \"\"\"\n            默认FedAvg根据数据量加权平均 平均后覆盖到自己的参数中\n        \"\"\"  ",
+        "detail": "models.BasicModel",
+        "documentation": {}
+    },
+    {
+        "label": "DebugModel",
+        "kind": 6,
+        "importPath": "models.DebugModel",
+        "description": "models.DebugModel",
+        "peekOfCode": "class DebugModel(BasicModel):\n    def __init__(self, local_num_epoch=5) -> None:\n        super().__init__(local_num_epoch)\n        self.logger = logging.getLogger(DebugModel.__name__)\n    def forward(self, x):\n        return 0\n    def get_dataloader(self) -> Tuple[DataLoader]:\n        # 分别返回训练集DataLoader和测试集DataLoader\n        return None, None\n    def local_train(self, env: LocalEnvironment):",
+        "detail": "models.DebugModel",
+        "documentation": {}
+    },
+    {
+        "label": "ResBlock",
+        "kind": 6,
+        "importPath": "models.Examples",
+        "description": "models.Examples",
+        "peekOfCode": "class ResBlock(torch.nn.Module):\n    def __init__(self,channels_in):\n        super().__init__()\n        self.conv1=torch.nn.Conv2d(channels_in,30,5,padding=2)\n        self.conv2=torch.nn.Conv2d(30,channels_in,3,padding=1)\n    def forward(self,x):\n        out=self.conv1(x)\n        out=self.conv2(out)\n        return F.relu(out+x)\nclass ResNetMNIST(BasicModel):",
+        "detail": "models.Examples",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetMNIST",
+        "kind": 6,
+        "importPath": "models.Examples",
+        "description": "models.Examples",
+        "peekOfCode": "class ResNetMNIST(BasicModel):\n    def __init__(self, local_num_epoch=5) -> None:\n        super().__init__(local_num_epoch)\n        self.conv1=torch.nn.Conv2d(1,20,5)\n        self.conv2=torch.nn.Conv2d(20,15,3)\n        self.maxpool=torch.nn.MaxPool2d(2)\n        self.resblock1=ResBlock(channels_in=20)\n        self.resblock2=ResBlock(channels_in=15)\n        self.full_c=torch.nn.Linear(375,10)\n    def client_init(self, env: LocalEnvironment):",
+        "detail": "models.Examples",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetCIFAR10",
+        "kind": 6,
+        "importPath": "models.Examples",
+        "description": "models.Examples",
+        "peekOfCode": "class ResNetCIFAR10(BasicModel):\n    def __init__(self, local_num_epoch=5) -> None:\n        super().__init__(local_num_epoch)\n    def get_dataloader(self) -> Tuple[DataLoader]:\n        return super().get_dataloader()\n    def local_train(self, env: LocalEnvironment) -> int:\n        return super().local_train(env)\n    def test(self, env: LocalEnvironment):\n        return super().test(env)",
+        "detail": "models.Examples",
+        "documentation": {}
+    },
+    {
+        "label": "ResBlock",
+        "kind": 6,
+        "importPath": "models.ResNet",
+        "description": "models.ResNet",
+        "peekOfCode": "class ResBlock(torch.nn.Module):\n    def __init__(self,channels_in):\n        super().__init__()\n        self.conv1=torch.nn.Conv2d(channels_in,30,5,padding=2)\n        self.conv2=torch.nn.Conv2d(30,channels_in,3,padding=1)\n    def forward(self,x):\n        out=self.conv1(x)\n        out=self.conv2(out)\n        return F.relu(out+x)\nclass ResNetMNIST(BasicModel):",
+        "detail": "models.ResNet",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetMNIST",
+        "kind": 6,
+        "importPath": "models.ResNet",
+        "description": "models.ResNet",
+        "peekOfCode": "class ResNetMNIST(BasicModel):\n    def __init__(self, local_num_epoch=5) -> None:\n        super().__init__(local_num_epoch)\n        self.conv1=torch.nn.Conv2d(1,20,5)\n        self.conv2=torch.nn.Conv2d(20,15,3)\n        self.maxpool=torch.nn.MaxPool2d(2)\n        self.resblock1=ResBlock(channels_in=20)\n        self.resblock2=ResBlock(channels_in=15)\n        self.full_c=torch.nn.Linear(375,10)\n    def client_init(self, env: LocalEnvironment):",
+        "detail": "models.ResNet",
+        "documentation": {}
+    },
+    {
+        "label": "ResNetCIFAR10",
+        "kind": 6,
+        "importPath": "models.ResNet",
+        "description": "models.ResNet",
+        "peekOfCode": "class ResNetCIFAR10(BasicModel):\n    def __init__(self, local_num_epoch=5) -> None:\n        super().__init__(local_num_epoch)\n        model = resnet18()\n        model.fc = nn.Linear(model.fc.in_features, 10)\n        self.inner_model = model\n    def client_init(self, env: LocalEnvironment):\n        super().client_init(env)\n        env.device = torch.device(\"cuda\" if torch.cuda.is_available() else \"cpu\")\n        logger.info(\"client inited\")",
+        "detail": "models.ResNet",
+        "documentation": {}
+    },
+    {
+        "label": "TreeNet",
+        "kind": 2,
+        "importPath": "network.examples.sshd",
+        "description": "network.examples.sshd",
+        "peekOfCode": "def TreeNet( depth=1, fanout=2, **kwargs ):\n    \"Convenience function for creating tree networks.\"\n    topo = TreeTopo( depth, fanout )\n    return Mininet( topo, waitConnected=True, **kwargs )\ndef connectToRootNS( network, switch, ip, routes ):\n    \"\"\"Connect hosts to root namespace via switch. Starts network.\n      network: Mininet() network object\n      switch: switch to connect to root namespace\n      ip: IP address for root namespace node\n      routes: host networks to route to\"\"\"",
+        "detail": "network.examples.sshd",
+        "documentation": {}
+    },
+    {
+        "label": "connectToRootNS",
+        "kind": 2,
+        "importPath": "network.examples.sshd",
+        "description": "network.examples.sshd",
+        "peekOfCode": "def connectToRootNS( network, switch, ip, routes ):\n    \"\"\"Connect hosts to root namespace via switch. Starts network.\n      network: Mininet() network object\n      switch: switch to connect to root namespace\n      ip: IP address for root namespace node\n      routes: host networks to route to\"\"\"\n    # Create a node in root namespace and link to switch 0\n    root = Node( 'root', inNamespace=False )\n    intf = network.addLink( root, switch ).intf1\n    root.setIP( ip, intf=intf )",
+        "detail": "network.examples.sshd",
+        "documentation": {}
+    },
+    {
+        "label": "sshd",
+        "kind": 2,
+        "importPath": "network.examples.sshd",
+        "description": "network.examples.sshd",
+        "peekOfCode": "def sshd( network, cmd='/usr/sbin/sshd', opts='-D',\n          ip='10.123.123.1/32', routes=None, switch=None ):\n    \"\"\"Start a network, connect it to root ns, and run sshd on all hosts.\n       ip: root-eth0 IP address in root namespace (10.123.123.1/32)\n       routes: Mininet host networks to route to (10.0/24)\n       switch: Mininet switch to connect to root namespace (s1)\"\"\"\n    if not switch:\n        switch = network[ 's1' ]  # switch to use\n    if not routes:\n        routes = [ '10.0.0.0/24' ]",
+        "detail": "network.examples.sshd",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoutingNet",
+        "kind": 6,
+        "importPath": "network.sl_topology.Sprint_backbone_network",
+        "description": "network.sl_topology.Sprint_backbone_network",
+        "peekOfCode": "class StaticRoutingNet(IPTopo):\n    def build(self, *args, **kwargs):\n        # 25 routers, 53links\n        r1 = self.addRouter('r1', use_v4=True, use_v6=False, lo_addresses=[\"10.1.1.1/24\"])\n        r2 = self.addRouter(\"r2\", use_v4=True, use_v6=False, lo_addresses=[\"10.2.1.1/24\"])\n        r3 = self.addRouter(\"r3\", use_v4=True, use_v6=False, lo_addresses=[\"10.3.1.1/24\"])\n        r4 = self.addRouter(\"r4\", use_v4=True, use_v6=False, lo_addresses=[\"10.4.1.1/24\"])\n        r5 = self.addRouter(\"r5\", use_v4=True, use_v6=False, lo_addresses=[\"10.5.1.1/24\"])\n        r6 = self.addRouter(\"r6\", use_v4=True, use_v6=False, lo_addresses=[\"10.6.1.1/24\"])\n        r7 = self.addRouter(\"r7\", use_v4=True, use_v6=False, lo_addresses=[\"10.7.1.1/24\"])",
+        "detail": "network.sl_topology.Sprint_backbone_network",
+        "documentation": {}
+    },
+    {
+        "label": "net",
+        "kind": 5,
+        "importPath": "network.sl_topology.Sprint_backbone_network",
+        "description": "network.sl_topology.Sprint_backbone_network",
+        "peekOfCode": "net = IPNet(topo=StaticRoutingNet(),use_v6=False)\ntry:\n    net.start()\n    IPCLI(net)\nfinally:\n    net.stop()",
+        "detail": "network.sl_topology.Sprint_backbone_network",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoutingNet",
+        "kind": 6,
+        "importPath": "network.sl_topology.Sprint_backbone_network_10+0.001",
+        "description": "network.sl_topology.Sprint_backbone_network_10+0.001",
+        "peekOfCode": "class StaticRoutingNet(IPTopo):\n    def build(self, *args, **kwargs):\n        # 25 routers, 53links\n        r1 = self.addRouter('r1', use_v4=True, use_v6=False, lo_addresses=[\"10.1.1.1/24\"])\n        r2 = self.addRouter(\"r2\", use_v4=True, use_v6=False, lo_addresses=[\"10.2.1.1/24\"])\n        r3 = self.addRouter(\"r3\", use_v4=True, use_v6=False, lo_addresses=[\"10.3.1.1/24\"])\n        r4 = self.addRouter(\"r4\", use_v4=True, use_v6=False, lo_addresses=[\"10.4.1.1/24\"])\n        r5 = self.addRouter(\"r5\", use_v4=True, use_v6=False, lo_addresses=[\"10.5.1.1/24\"])\n        r6 = self.addRouter(\"r6\", use_v4=True, use_v6=False, lo_addresses=[\"10.6.1.1/24\"])\n        r7 = self.addRouter(\"r7\", use_v4=True, use_v6=False, lo_addresses=[\"10.7.1.1/24\"])",
+        "detail": "network.sl_topology.Sprint_backbone_network_10+0.001",
+        "documentation": {}
+    },
+    {
+        "label": "net",
+        "kind": 5,
+        "importPath": "network.sl_topology.Sprint_backbone_network_10+0.001",
+        "description": "network.sl_topology.Sprint_backbone_network_10+0.001",
+        "peekOfCode": "net = IPNet(topo=StaticRoutingNet(),use_v6=False)\ntry:\n    net.start()\n    IPCLI(net)\nfinally:\n    net.stop()",
+        "detail": "network.sl_topology.Sprint_backbone_network_10+0.001",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoutingNet",
+        "kind": 6,
+        "importPath": "network.sl_topology.Sprint_backbone_network_10",
+        "description": "network.sl_topology.Sprint_backbone_network_10",
+        "peekOfCode": "class StaticRoutingNet(IPTopo):\n    def build(self, *args, **kwargs):\n        # 25 routers, 53links\n        r1 = self.addRouter('r1', use_v4=True, use_v6=False, lo_addresses=[\"10.1.1.1/24\"], config=RouterConfig)\n        r2 = self.addRouter(\"r2\", use_v4=True, use_v6=False, lo_addresses=[\"10.2.1.1/24\"])\n        r3 = self.addRouter(\"r3\", use_v4=True, use_v6=False, lo_addresses=[\"10.3.1.1/24\"])\n        listr = [r1,r2,r3]\n        # 53条links，需要53个子网\n        # 经过仔细的数，只数到50条links，需要50个子网\n        # 添加延时:delay=\"?ms\",添加带宽bw=10",
+        "detail": "network.sl_topology.Sprint_backbone_network_10",
+        "documentation": {}
+    },
+    {
+        "label": "net",
+        "kind": 5,
+        "importPath": "network.sl_topology.Sprint_backbone_network_10",
+        "description": "network.sl_topology.Sprint_backbone_network_10",
+        "peekOfCode": "net = IPNet(topo=StaticRoutingNet(),use_v6=False)\ntry:\n    net.start()\n    cli = IPCLI(net, script=\"scrip.sh\")\n    cli.run()\nfinally:\n    net.stop()",
+        "detail": "network.sl_topology.Sprint_backbone_network_10",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoutingNet",
+        "kind": 6,
+        "importPath": "network.sl_topology.Sprint_backbone_network_100",
+        "description": "network.sl_topology.Sprint_backbone_network_100",
+        "peekOfCode": "class StaticRoutingNet(IPTopo):\n    def build(self, *args, **kwargs):\n        # 25 routers, 53links\n        r1 = self.addRouter('r1', use_v4=True, use_v6=False, lo_addresses=[\"10.1.1.1/24\"])\n        r2 = self.addRouter(\"r2\", use_v4=True, use_v6=False, lo_addresses=[\"10.2.1.1/24\"])\n        r3 = self.addRouter(\"r3\", use_v4=True, use_v6=False, lo_addresses=[\"10.3.1.1/24\"])\n        r4 = self.addRouter(\"r4\", use_v4=True, use_v6=False, lo_addresses=[\"10.4.1.1/24\"])\n        r5 = self.addRouter(\"r5\", use_v4=True, use_v6=False, lo_addresses=[\"10.5.1.1/24\"])\n        r6 = self.addRouter(\"r6\", use_v4=True, use_v6=False, lo_addresses=[\"10.6.1.1/24\"])\n        r7 = self.addRouter(\"r7\", use_v4=True, use_v6=False, lo_addresses=[\"10.7.1.1/24\"])",
+        "detail": "network.sl_topology.Sprint_backbone_network_100",
+        "documentation": {}
+    },
+    {
+        "label": "net",
+        "kind": 5,
+        "importPath": "network.sl_topology.Sprint_backbone_network_100",
+        "description": "network.sl_topology.Sprint_backbone_network_100",
+        "peekOfCode": "net = IPNet(topo=StaticRoutingNet(),use_v6=False)\ntry:\n    net.start()\n    IPCLI(net)\nfinally:\n    net.stop()",
+        "detail": "network.sl_topology.Sprint_backbone_network_100",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoutingNet",
+        "kind": 6,
+        "importPath": "network.sl_topology.Sprint_backbone_network_20",
+        "description": "network.sl_topology.Sprint_backbone_network_20",
+        "peekOfCode": "class StaticRoutingNet(IPTopo):\n    def build(self, *args, **kwargs):\n        # 25 routers, 53links\n        r1 = self.addRouter('r1', use_v4=True, use_v6=False, lo_addresses=[\"10.1.1.1/24\"])\n        r2 = self.addRouter(\"r2\", use_v4=True, use_v6=False, lo_addresses=[\"10.2.1.1/24\"])\n        r3 = self.addRouter(\"r3\", use_v4=True, use_v6=False, lo_addresses=[\"10.3.1.1/24\"])\n        r4 = self.addRouter(\"r4\", use_v4=True, use_v6=False, lo_addresses=[\"10.4.1.1/24\"])\n        r5 = self.addRouter(\"r5\", use_v4=True, use_v6=False, lo_addresses=[\"10.5.1.1/24\"])\n        r6 = self.addRouter(\"r6\", use_v4=True, use_v6=False, lo_addresses=[\"10.6.1.1/24\"])\n        r7 = self.addRouter(\"r7\", use_v4=True, use_v6=False, lo_addresses=[\"10.7.1.1/24\"])",
+        "detail": "network.sl_topology.Sprint_backbone_network_20",
+        "documentation": {}
+    },
+    {
+        "label": "net",
+        "kind": 5,
+        "importPath": "network.sl_topology.Sprint_backbone_network_20",
+        "description": "network.sl_topology.Sprint_backbone_network_20",
+        "peekOfCode": "net = IPNet(topo=StaticRoutingNet(),use_v6=False)\ntry:\n    net.start()\n    IPCLI(net)\nfinally:\n    net.stop()",
+        "detail": "network.sl_topology.Sprint_backbone_network_20",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoutingNet",
+        "kind": 6,
+        "importPath": "network.sl_topology.Sprint_backbone_network_40",
+        "description": "network.sl_topology.Sprint_backbone_network_40",
+        "peekOfCode": "class StaticRoutingNet(IPTopo):\n    def build(self, *args, **kwargs):\n        # 25 routers, 53links\n        r1 = self.addRouter('r1', use_v4=True, use_v6=False, lo_addresses=[\"10.1.1.1/24\"])\n        r2 = self.addRouter(\"r2\", use_v4=True, use_v6=False, lo_addresses=[\"10.2.1.1/24\"])\n        r3 = self.addRouter(\"r3\", use_v4=True, use_v6=False, lo_addresses=[\"10.3.1.1/24\"])\n        r4 = self.addRouter(\"r4\", use_v4=True, use_v6=False, lo_addresses=[\"10.4.1.1/24\"])\n        r5 = self.addRouter(\"r5\", use_v4=True, use_v6=False, lo_addresses=[\"10.5.1.1/24\"])\n        r6 = self.addRouter(\"r6\", use_v4=True, use_v6=False, lo_addresses=[\"10.6.1.1/24\"])\n        r7 = self.addRouter(\"r7\", use_v4=True, use_v6=False, lo_addresses=[\"10.7.1.1/24\"])",
+        "detail": "network.sl_topology.Sprint_backbone_network_40",
+        "documentation": {}
+    },
+    {
+        "label": "net",
+        "kind": 5,
+        "importPath": "network.sl_topology.Sprint_backbone_network_40",
+        "description": "network.sl_topology.Sprint_backbone_network_40",
+        "peekOfCode": "net = IPNet(topo=StaticRoutingNet(),use_v6=False)\ntry:\n    net.start()\n    IPCLI(net)\nfinally:\n    net.stop()",
+        "detail": "network.sl_topology.Sprint_backbone_network_40",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoutingNet",
+        "kind": 6,
+        "importPath": "network.sl_topology.Sprint_backbone_network_60",
+        "description": "network.sl_topology.Sprint_backbone_network_60",
+        "peekOfCode": "class StaticRoutingNet(IPTopo):\n    def build(self, *args, **kwargs):\n        # 25 routers, 53links\n        r1 = self.addRouter('r1', use_v4=True, use_v6=False, lo_addresses=[\"10.1.1.1/24\"])\n        r2 = self.addRouter(\"r2\", use_v4=True, use_v6=False, lo_addresses=[\"10.2.1.1/24\"])\n        r3 = self.addRouter(\"r3\", use_v4=True, use_v6=False, lo_addresses=[\"10.3.1.1/24\"])\n        r4 = self.addRouter(\"r4\", use_v4=True, use_v6=False, lo_addresses=[\"10.4.1.1/24\"])\n        r5 = self.addRouter(\"r5\", use_v4=True, use_v6=False, lo_addresses=[\"10.5.1.1/24\"])\n        r6 = self.addRouter(\"r6\", use_v4=True, use_v6=False, lo_addresses=[\"10.6.1.1/24\"])\n        r7 = self.addRouter(\"r7\", use_v4=True, use_v6=False, lo_addresses=[\"10.7.1.1/24\"])",
+        "detail": "network.sl_topology.Sprint_backbone_network_60",
+        "documentation": {}
+    },
+    {
+        "label": "net",
+        "kind": 5,
+        "importPath": "network.sl_topology.Sprint_backbone_network_60",
+        "description": "network.sl_topology.Sprint_backbone_network_60",
+        "peekOfCode": "net = IPNet(topo=StaticRoutingNet(),use_v6=False)\ntry:\n    net.start()\n    IPCLI(net)\nfinally:\n    net.stop()",
+        "detail": "network.sl_topology.Sprint_backbone_network_60",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoutingNet",
+        "kind": 6,
+        "importPath": "network.sl_topology.Sprint_backbone_network_80",
+        "description": "network.sl_topology.Sprint_backbone_network_80",
+        "peekOfCode": "class StaticRoutingNet(IPTopo):\n    def build(self, *args, **kwargs):\n        # 25 routers, 53links\n        r1 = self.addRouter('r1', use_v4=True, use_v6=False, lo_addresses=[\"10.1.1.1/24\"])\n        r2 = self.addRouter(\"r2\", use_v4=True, use_v6=False, lo_addresses=[\"10.2.1.1/24\"])\n        r3 = self.addRouter(\"r3\", use_v4=True, use_v6=False, lo_addresses=[\"10.3.1.1/24\"])\n        r4 = self.addRouter(\"r4\", use_v4=True, use_v6=False, lo_addresses=[\"10.4.1.1/24\"])\n        r5 = self.addRouter(\"r5\", use_v4=True, use_v6=False, lo_addresses=[\"10.5.1.1/24\"])\n        r6 = self.addRouter(\"r6\", use_v4=True, use_v6=False, lo_addresses=[\"10.6.1.1/24\"])\n        r7 = self.addRouter(\"r7\", use_v4=True, use_v6=False, lo_addresses=[\"10.7.1.1/24\"])",
+        "detail": "network.sl_topology.Sprint_backbone_network_80",
+        "documentation": {}
+    },
+    {
+        "label": "net",
+        "kind": 5,
+        "importPath": "network.sl_topology.Sprint_backbone_network_80",
+        "description": "network.sl_topology.Sprint_backbone_network_80",
+        "peekOfCode": "net = IPNet(topo=StaticRoutingNet(),use_v6=False)\ntry:\n    net.start()\n    IPCLI(net)\nfinally:\n    net.stop()",
+        "detail": "network.sl_topology.Sprint_backbone_network_80",
+        "documentation": {}
+    },
+    {
+        "label": "SSHd",
+        "kind": 6,
+        "importPath": "network.sl_topology.myssh",
+        "description": "network.sl_topology.myssh",
+        "peekOfCode": "class SSHd(Daemon):\n    NAME = 'sshd'\n    STARTUP_LINE_BASE = '{name} -D -u0'.format(name=find_executable(NAME))\n    KILL_PATTERNS = (STARTUP_LINE_BASE,)\n    @property\n    def startup_line(self):\n        return ('{base}'\n                .format(base=self.STARTUP_LINE_BASE))\n    @property\n    def dry_run(self):",
+        "detail": "network.sl_topology.myssh",
+        "documentation": {}
+    },
+    {
+        "label": "KEYFILE",
+        "kind": 5,
+        "importPath": "network.sl_topology.myssh",
+        "description": "network.sl_topology.myssh",
+        "peekOfCode": "KEYFILE = tempfile.mktemp(dir='/tmp')\nPUBKEY = '%s.pub' % KEYFILE\nif os.path.exists(KEYFILE):\n    os.unlink(KEYFILE)\nif os.path.exists(PUBKEY):\n    os.unlink(PUBKEY)\nclass SSHd(Daemon):\n    NAME = 'sshd'\n    STARTUP_LINE_BASE = '{name} -D -u0'.format(name=find_executable(NAME))\n    KILL_PATTERNS = (STARTUP_LINE_BASE,)",
+        "detail": "network.sl_topology.myssh",
+        "documentation": {}
+    },
+    {
+        "label": "PUBKEY",
+        "kind": 5,
+        "importPath": "network.sl_topology.myssh",
+        "description": "network.sl_topology.myssh",
+        "peekOfCode": "PUBKEY = '%s.pub' % KEYFILE\nif os.path.exists(KEYFILE):\n    os.unlink(KEYFILE)\nif os.path.exists(PUBKEY):\n    os.unlink(PUBKEY)\nclass SSHd(Daemon):\n    NAME = 'sshd'\n    STARTUP_LINE_BASE = '{name} -D -u0'.format(name=find_executable(NAME))\n    KILL_PATTERNS = (STARTUP_LINE_BASE,)\n    @property",
+        "detail": "network.sl_topology.myssh",
+        "documentation": {}
+    },
+    {
+        "label": "USA_CITIES",
+        "kind": 5,
+        "importPath": "network.topology.data",
+        "description": "network.topology.data",
+        "peekOfCode": "USA_CITIES = [[0, 62, 60, 56, 29, 50, 34, 28, 35], \n              [62, 0, 4, 17, 34, 18, 34, 58, 37], \n              [60, 4, 0, 12, 30, 14, 30, 56, 44], \n              [56, 17, 12, 0, 25, 6, 38, 51, 26], \n              [29, 34, 30, 25, 0, 19, 9, 53, 23], \n              [50, 18, 14, 6, 19, 0, 28, 40, 20], \n              [34, 34, 30, 38, 9, 28, 0, 71, 36], \n              [28, 58, 56, 51, 53, 40, 71, 0, 29], \n              [35, 37, 44, 26, 23, 20, 36, 29, 0]]\nDEBUG_NODES = [",
+        "detail": "network.topology.data",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG_NODES",
+        "kind": 5,
+        "importPath": "network.topology.data",
+        "description": "network.topology.data",
+        "peekOfCode": "DEBUG_NODES = [\n    [0, 1, 1],\n    [1, 0, 1],\n    [1, 1, 0]\n]",
+        "detail": "network.topology.data",
+        "documentation": {}
+    },
+    {
+        "label": "StaticRoutingNet",
+        "kind": 6,
+        "importPath": "network.topology.sdn_net",
+        "description": "network.topology.sdn_net",
+        "peekOfCode": "class StaticRoutingNet(IPTopo):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n    def build(self, *args, **kwargs):\n        # 构建路由器 路由器充当节点\n        routers = [self.addRouter(f'r{nid}', use_v4=True, use_v6=False, lo_addresses=[f\"10.{nid}.1.1/24\"]) for nid in node_ids]\n        # 添加链接\n        for i in range(len(topo_data)):\n            for j in range(i+1, len(topo_data)):\n                self.addLink(routers[i], routers[j], delay = f\"{topo_data[i][j]/2}ms\", bw=300)",
+        "detail": "network.topology.sdn_net",
+        "documentation": {}
+    },
+    {
+        "label": "start_exp",
+        "kind": 2,
+        "importPath": "network.topology.sdn_net",
+        "description": "network.topology.sdn_net",
+        "peekOfCode": "def start_exp(leader: int, gpu_offset: int=0):\n    # 构建网络\n    net = IPNet(topo=StaticRoutingNet(),use_v6=False)\n    try:\n        # 生成批命令脚本\n        with open(\"scripts/script.sh\", \"w\") as file:\n            for nid in node_ids:\n                if nid == leader:\n                    continue\n                file.write(f\"r{nid} CUDA_VISIBLE_DEVICES={(nid + gpu_offset) % 3} ../../bin/server.sh start 12333 &\\n\")",
+        "detail": "network.topology.sdn_net",
+        "documentation": {}
+    },
+    {
+        "label": "topo_data",
+        "kind": 5,
+        "importPath": "network.topology.sdn_net",
+        "description": "network.topology.sdn_net",
+        "peekOfCode": "topo_data = USA_CITIES\nnode_ids = [i for i in range(len(topo_data))]\nclass StaticRoutingNet(IPTopo):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n    def build(self, *args, **kwargs):\n        # 构建路由器 路由器充当节点\n        routers = [self.addRouter(f'r{nid}', use_v4=True, use_v6=False, lo_addresses=[f\"10.{nid}.1.1/24\"]) for nid in node_ids]\n        # 添加链接\n        for i in range(len(topo_data)):",
+        "detail": "network.topology.sdn_net",
+        "documentation": {}
+    },
+    {
+        "label": "node_ids",
+        "kind": 5,
+        "importPath": "network.topology.sdn_net",
+        "description": "network.topology.sdn_net",
+        "peekOfCode": "node_ids = [i for i in range(len(topo_data))]\nclass StaticRoutingNet(IPTopo):\n    def __init__(self, *args, **kwargs):\n        super().__init__(*args, **kwargs)\n    def build(self, *args, **kwargs):\n        # 构建路由器 路由器充当节点\n        routers = [self.addRouter(f'r{nid}', use_v4=True, use_v6=False, lo_addresses=[f\"10.{nid}.1.1/24\"]) for nid in node_ids]\n        # 添加链接\n        for i in range(len(topo_data)):\n            for j in range(i+1, len(topo_data)):",
+        "detail": "network.topology.sdn_net",
+        "documentation": {}
+    },
+    {
+        "label": "_sym_db",
+        "kind": 5,
+        "importPath": "rpc.jobmanager_message_pb2",
+        "description": "rpc.jobmanager_message_pb2",
+        "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x18jobmanager_message.proto\\x12\\x07\\x66\\x65\\x64raft\\\"\\x15\\n\\x13\\x41ppendModelsRequest\\\"\\x16\\n\\x14\\x41ppendModelsResponse\\\"\\x10\\n\\x0eJobVoteRequest\\\"\\x11\\n\\x0fJobVoteResponse\\\"4\\n\\x12JobShutdownRequest\\x12\\x10\\n\\x08sourceId\\x18\\x01 \\x01(\\x03\\x12\\x0c\\n\\x04uuid\\x18\\x02 \\x01(\\x05\\\"\\x15\\n\\x13JobShutdownResponse\\\"C\\n\\x13\\x41ppendJobLogRequest\\x12\\x10\\n\\x08sourceId\\x18\\x01 \\x01(\\x03\\x12\\x0c\\n\\x04uuid\\x18\\x02 \\x01(\\x05\\x12\\x0c\\n\\x04logs\\x18\\x03 \\x03(\\t\\\"\\x16\\n\\x14\\x41ppendJobLogResponseB+\\n\\'org.bupt.fedraft.rpc.jobmanager.messageP\\x01\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'jobmanager_message_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  DESCRIPTOR._serialized_options = b'\\n\\'org.bupt.fedraft.rpc.jobmanager.messageP\\001'\n  _APPENDMODELSREQUEST._serialized_start=37\n  _APPENDMODELSREQUEST._serialized_end=58\n  _APPENDMODELSRESPONSE._serialized_start=60",
+        "detail": "rpc.jobmanager_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR",
+        "kind": 5,
+        "importPath": "rpc.jobmanager_message_pb2",
+        "description": "rpc.jobmanager_message_pb2",
+        "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x18jobmanager_message.proto\\x12\\x07\\x66\\x65\\x64raft\\\"\\x15\\n\\x13\\x41ppendModelsRequest\\\"\\x16\\n\\x14\\x41ppendModelsResponse\\\"\\x10\\n\\x0eJobVoteRequest\\\"\\x11\\n\\x0fJobVoteResponse\\\"4\\n\\x12JobShutdownRequest\\x12\\x10\\n\\x08sourceId\\x18\\x01 \\x01(\\x03\\x12\\x0c\\n\\x04uuid\\x18\\x02 \\x01(\\x05\\\"\\x15\\n\\x13JobShutdownResponse\\\"C\\n\\x13\\x41ppendJobLogRequest\\x12\\x10\\n\\x08sourceId\\x18\\x01 \\x01(\\x03\\x12\\x0c\\n\\x04uuid\\x18\\x02 \\x01(\\x05\\x12\\x0c\\n\\x04logs\\x18\\x03 \\x03(\\t\\\"\\x16\\n\\x14\\x41ppendJobLogResponseB+\\n\\'org.bupt.fedraft.rpc.jobmanager.messageP\\x01\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'jobmanager_message_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  DESCRIPTOR._serialized_options = b'\\n\\'org.bupt.fedraft.rpc.jobmanager.messageP\\001'\n  _APPENDMODELSREQUEST._serialized_start=37\n  _APPENDMODELSREQUEST._serialized_end=58\n  _APPENDMODELSRESPONSE._serialized_start=60\n  _APPENDMODELSRESPONSE._serialized_end=82",
+        "detail": "rpc.jobmanager_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "_sym_db",
+        "kind": 5,
+        "importPath": "rpc.manager_message_pb2",
+        "description": "rpc.manager_message_pb2",
+        "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x15manager_message.proto\\x12\\x07\\x66\\x65\\x64raft\\\"j\\n\\x14\\x41ppendEntriesRequest\\x12\\x0c\\n\\x04term\\x18\\x01 \\x01(\\x05\\x12\\x10\\n\\x08leaderId\\x18\\x02 \\x01(\\x03\\x12\\x12\\n\\nentryIndex\\x18\\x03 \\x01(\\x03\\x12\\x0f\\n\\x07nodeIds\\x18\\x04 \\x03(\\x03\\x12\\r\\n\\x05\\x64\\x65lay\\x18\\x05 \\x03(\\x05\\\"4\\n\\x15\\x41ppendEntriesResponse\\x12\\x0c\\n\\x04term\\x18\\x01 \\x01(\\x05\\x12\\r\\n\\x05\\x64\\x65lay\\x18\\x02 \\x01(\\x05\\\"K\\n\\x12ManagerVoteRequest\\x12\\x0c\\n\\x04term\\x18\\x01 \\x01(\\x05\\x12\\x13\\n\\x0b\\x63\\x61ndidateId\\x18\\x02 \\x01(\\x03\\x12\\x12\\n\\nentryIndex\\x18\\x03 \\x01(\\x03\\\"8\\n\\x13ManagerVoteResponse\\x12\\x0c\\n\\x04term\\x18\\x01 \\x01(\\x05\\x12\\x13\\n\\x0bvoteGranted\\x18\\x02 \\x01(\\x08\\\"*\\n\\x08\\x43odeFile\\x12\\x10\\n\\x08\\x66ileName\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04\\x63ode\\x18\\x02 \\x01(\\t\\\"\\x83\\x01\\n\\x10JobConfiguration\\x12\\x0c\\n\\x04uuid\\x18\\x01 \\x01(\\x05\\x12\\x10\\n\\x08sourceId\\x18\\x02 \\x01(\\x03\\x12\\x14\\n\\x0cparticipants\\x18\\x03 \\x03(\\x03\\x12#\\n\\x08\\x63odeFile\\x18\\x04 \\x01(\\x0b\\x32\\x11.fedraft.CodeFile\\x12\\x14\\n\\x0cglobal_epoch\\x18\\x05 \\x01(\\x05\\\"^\\n\\x10JobSubmitRequest\\x12)\\n\\x04\\x63onf\\x18\\x01 \\x01(\\x0b\\x32\\x19.fedraft.JobConfigurationH\\x00\\x12\\x14\\n\\nmodelChunk\\x18\\x02 \\x01(\\x0cH\\x00\\x42\\t\\n\\x07JobInfo\\\"N\\n\\x11JobSubmitResponse\\x12\\x11\\n\\x07success\\x18\\x01 \\x01(\\x08H\\x00\\x12\\x0e\\n\\x04logs\\x18\\x02 \\x01(\\tH\\x00\\x12\\x0f\\n\\x05\\x63hunk\\x18\\x03 \\x01(\\x0cH\\x00\\x42\\x05\\n\\x03Log*8\\n\\rManagerStatus\\x12\\n\\n\\x06LEADER\\x10\\x00\\x12\\r\\n\\tCANDIDATE\\x10\\x01\\x12\\x0c\\n\\x08\\x46OLLOWER\\x10\\x02\\x42(\\n$org.bupt.fedraft.rpc.manager.messageP\\x01\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'manager_message_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  DESCRIPTOR._serialized_options = b'\\n$org.bupt.fedraft.rpc.manager.messageP\\001'\n  _MANAGERSTATUS._serialized_start=685\n  _MANAGERSTATUS._serialized_end=741\n  _APPENDENTRIESREQUEST._serialized_start=34",
+        "detail": "rpc.manager_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR",
+        "kind": 5,
+        "importPath": "rpc.manager_message_pb2",
+        "description": "rpc.manager_message_pb2",
+        "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x15manager_message.proto\\x12\\x07\\x66\\x65\\x64raft\\\"j\\n\\x14\\x41ppendEntriesRequest\\x12\\x0c\\n\\x04term\\x18\\x01 \\x01(\\x05\\x12\\x10\\n\\x08leaderId\\x18\\x02 \\x01(\\x03\\x12\\x12\\n\\nentryIndex\\x18\\x03 \\x01(\\x03\\x12\\x0f\\n\\x07nodeIds\\x18\\x04 \\x03(\\x03\\x12\\r\\n\\x05\\x64\\x65lay\\x18\\x05 \\x03(\\x05\\\"4\\n\\x15\\x41ppendEntriesResponse\\x12\\x0c\\n\\x04term\\x18\\x01 \\x01(\\x05\\x12\\r\\n\\x05\\x64\\x65lay\\x18\\x02 \\x01(\\x05\\\"K\\n\\x12ManagerVoteRequest\\x12\\x0c\\n\\x04term\\x18\\x01 \\x01(\\x05\\x12\\x13\\n\\x0b\\x63\\x61ndidateId\\x18\\x02 \\x01(\\x03\\x12\\x12\\n\\nentryIndex\\x18\\x03 \\x01(\\x03\\\"8\\n\\x13ManagerVoteResponse\\x12\\x0c\\n\\x04term\\x18\\x01 \\x01(\\x05\\x12\\x13\\n\\x0bvoteGranted\\x18\\x02 \\x01(\\x08\\\"*\\n\\x08\\x43odeFile\\x12\\x10\\n\\x08\\x66ileName\\x18\\x01 \\x01(\\t\\x12\\x0c\\n\\x04\\x63ode\\x18\\x02 \\x01(\\t\\\"\\x83\\x01\\n\\x10JobConfiguration\\x12\\x0c\\n\\x04uuid\\x18\\x01 \\x01(\\x05\\x12\\x10\\n\\x08sourceId\\x18\\x02 \\x01(\\x03\\x12\\x14\\n\\x0cparticipants\\x18\\x03 \\x03(\\x03\\x12#\\n\\x08\\x63odeFile\\x18\\x04 \\x01(\\x0b\\x32\\x11.fedraft.CodeFile\\x12\\x14\\n\\x0cglobal_epoch\\x18\\x05 \\x01(\\x05\\\"^\\n\\x10JobSubmitRequest\\x12)\\n\\x04\\x63onf\\x18\\x01 \\x01(\\x0b\\x32\\x19.fedraft.JobConfigurationH\\x00\\x12\\x14\\n\\nmodelChunk\\x18\\x02 \\x01(\\x0cH\\x00\\x42\\t\\n\\x07JobInfo\\\"N\\n\\x11JobSubmitResponse\\x12\\x11\\n\\x07success\\x18\\x01 \\x01(\\x08H\\x00\\x12\\x0e\\n\\x04logs\\x18\\x02 \\x01(\\tH\\x00\\x12\\x0f\\n\\x05\\x63hunk\\x18\\x03 \\x01(\\x0cH\\x00\\x42\\x05\\n\\x03Log*8\\n\\rManagerStatus\\x12\\n\\n\\x06LEADER\\x10\\x00\\x12\\r\\n\\tCANDIDATE\\x10\\x01\\x12\\x0c\\n\\x08\\x46OLLOWER\\x10\\x02\\x42(\\n$org.bupt.fedraft.rpc.manager.messageP\\x01\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'manager_message_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  DESCRIPTOR._serialized_options = b'\\n$org.bupt.fedraft.rpc.manager.messageP\\001'\n  _MANAGERSTATUS._serialized_start=685\n  _MANAGERSTATUS._serialized_end=741\n  _APPENDENTRIESREQUEST._serialized_start=34\n  _APPENDENTRIESREQUEST._serialized_end=140",
+        "detail": "rpc.manager_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "_sym_db",
+        "kind": 5,
+        "importPath": "rpc.manager_service_pb2",
+        "description": "rpc.manager_service_pb2",
+        "peekOfCode": "_sym_db = _symbol_database.Default()\nimport manager_message_pb2 as manager__message__pb2\nimport jobmanager_message_pb2 as jobmanager__message__pb2\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x15manager_service.proto\\x12\\x07\\x66\\x65\\x64raft\\x1a\\x15manager_message.proto\\x1a\\x18jobmanager_message.proto2\\xc0\\x02\\n\\x0eManagerService\\x12P\\n\\rAppendEntries\\x12\\x1d.fedraft.AppendEntriesRequest\\x1a\\x1e.fedraft.AppendEntriesResponse\\\"\\x00\\x12\\x46\\n\\x07VoteFor\\x12\\x1b.fedraft.ManagerVoteRequest\\x1a\\x1c.fedraft.ManagerVoteResponse\\\"\\x00\\x12H\\n\\tJobSubmit\\x12\\x19.fedraft.JobSubmitRequest\\x1a\\x1a.fedraft.JobSubmitResponse\\\"\\x00(\\x01\\x30\\x01\\x12J\\n\\x0bJobShutdown\\x12\\x1b.fedraft.JobShutdownRequest\\x1a\\x1c.fedraft.JobShutdownResponse\\\"\\x00\\x32_\\n\\x11JobManagerService\\x12J\\n\\tAppendLog\\x12\\x1c.fedraft.AppendJobLogRequest\\x1a\\x1d.fedraft.AppendJobLogResponse\\\"\\x00\\x42(\\n$org.bupt.fedraft.rpc.manager.serviceP\\x01\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'manager_service_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  DESCRIPTOR._serialized_options = b'\\n$org.bupt.fedraft.rpc.manager.serviceP\\001'\n  _MANAGERSERVICE._serialized_start=84",
+        "detail": "rpc.manager_service_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR",
+        "kind": 5,
+        "importPath": "rpc.manager_service_pb2",
+        "description": "rpc.manager_service_pb2",
+        "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x15manager_service.proto\\x12\\x07\\x66\\x65\\x64raft\\x1a\\x15manager_message.proto\\x1a\\x18jobmanager_message.proto2\\xc0\\x02\\n\\x0eManagerService\\x12P\\n\\rAppendEntries\\x12\\x1d.fedraft.AppendEntriesRequest\\x1a\\x1e.fedraft.AppendEntriesResponse\\\"\\x00\\x12\\x46\\n\\x07VoteFor\\x12\\x1b.fedraft.ManagerVoteRequest\\x1a\\x1c.fedraft.ManagerVoteResponse\\\"\\x00\\x12H\\n\\tJobSubmit\\x12\\x19.fedraft.JobSubmitRequest\\x1a\\x1a.fedraft.JobSubmitResponse\\\"\\x00(\\x01\\x30\\x01\\x12J\\n\\x0bJobShutdown\\x12\\x1b.fedraft.JobShutdownRequest\\x1a\\x1c.fedraft.JobShutdownResponse\\\"\\x00\\x32_\\n\\x11JobManagerService\\x12J\\n\\tAppendLog\\x12\\x1c.fedraft.AppendJobLogRequest\\x1a\\x1d.fedraft.AppendJobLogResponse\\\"\\x00\\x42(\\n$org.bupt.fedraft.rpc.manager.serviceP\\x01\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'manager_service_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  DESCRIPTOR._serialized_options = b'\\n$org.bupt.fedraft.rpc.manager.serviceP\\001'\n  _MANAGERSERVICE._serialized_start=84\n  _MANAGERSERVICE._serialized_end=404\n  _JOBMANAGERSERVICE._serialized_start=406\n  _JOBMANAGERSERVICE._serialized_end=501",
+        "detail": "rpc.manager_service_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "ManagerServiceStub",
+        "kind": 6,
+        "importPath": "rpc.manager_service_pb2_grpc",
+        "description": "rpc.manager_service_pb2_grpc",
+        "peekOfCode": "class ManagerServiceStub(object):\n    \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.AppendEntries = channel.unary_unary(\n                '/fedraft.ManagerService/AppendEntries',\n                request_serializer=manager__message__pb2.AppendEntriesRequest.SerializeToString,",
+        "detail": "rpc.manager_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ManagerServiceServicer",
+        "kind": 6,
+        "importPath": "rpc.manager_service_pb2_grpc",
+        "description": "rpc.manager_service_pb2_grpc",
+        "peekOfCode": "class ManagerServiceServicer(object):\n    \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n    def AppendEntries(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\n    def VoteFor(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)",
+        "detail": "rpc.manager_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "ManagerService",
+        "kind": 6,
+        "importPath": "rpc.manager_service_pb2_grpc",
+        "description": "rpc.manager_service_pb2_grpc",
+        "peekOfCode": "class ManagerService(object):\n    \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n    @staticmethod\n    def AppendEntries(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,\n            compression=None,",
+        "detail": "rpc.manager_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "JobManagerServiceStub",
+        "kind": 6,
+        "importPath": "rpc.manager_service_pb2_grpc",
+        "description": "rpc.manager_service_pb2_grpc",
+        "peekOfCode": "class JobManagerServiceStub(object):\n    \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.AppendLog = channel.unary_unary(\n                '/fedraft.JobManagerService/AppendLog',\n                request_serializer=jobmanager__message__pb2.AppendJobLogRequest.SerializeToString,",
+        "detail": "rpc.manager_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "JobManagerServiceServicer",
+        "kind": 6,
+        "importPath": "rpc.manager_service_pb2_grpc",
+        "description": "rpc.manager_service_pb2_grpc",
+        "peekOfCode": "class JobManagerServiceServicer(object):\n    \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n    def AppendLog(self, request, context):\n        \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\ndef add_JobManagerServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'AppendLog': grpc.unary_unary_rpc_method_handler(",
+        "detail": "rpc.manager_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "JobManagerService",
+        "kind": 6,
+        "importPath": "rpc.manager_service_pb2_grpc",
+        "description": "rpc.manager_service_pb2_grpc",
+        "peekOfCode": "class JobManagerService(object):\n    \"\"\"Missing associated documentation comment in .proto file.\"\"\"\n    @staticmethod\n    def AppendLog(request,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,\n            compression=None,",
+        "detail": "rpc.manager_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_ManagerServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "rpc.manager_service_pb2_grpc",
+        "description": "rpc.manager_service_pb2_grpc",
+        "peekOfCode": "def add_ManagerServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'AppendEntries': grpc.unary_unary_rpc_method_handler(\n                    servicer.AppendEntries,\n                    request_deserializer=manager__message__pb2.AppendEntriesRequest.FromString,\n                    response_serializer=manager__message__pb2.AppendEntriesResponse.SerializeToString,\n            ),\n            'VoteFor': grpc.unary_unary_rpc_method_handler(\n                    servicer.VoteFor,\n                    request_deserializer=manager__message__pb2.ManagerVoteRequest.FromString,",
+        "detail": "rpc.manager_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_JobManagerServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "rpc.manager_service_pb2_grpc",
+        "description": "rpc.manager_service_pb2_grpc",
+        "peekOfCode": "def add_JobManagerServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'AppendLog': grpc.unary_unary_rpc_method_handler(\n                    servicer.AppendLog,\n                    request_deserializer=jobmanager__message__pb2.AppendJobLogRequest.FromString,\n                    response_serializer=jobmanager__message__pb2.AppendJobLogResponse.SerializeToString,\n            ),\n    }\n    generic_handler = grpc.method_handlers_generic_handler(\n            'fedraft.JobManagerService', rpc_method_handlers)",
+        "detail": "rpc.manager_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "_sym_db",
+        "kind": 5,
+        "importPath": "rpc.trainer_message_pb2",
+        "description": "rpc.trainer_message_pb2",
+        "peekOfCode": "_sym_db = _symbol_database.Default()\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x15trainer_message.proto\\x12\\x07\\x66\\x65\\x64raft\\\"\\'\\n\\x10InitModelRequest\\x12\\x13\\n\\x0bmodel_chunk\\x18\\x01 \\x01(\\x0c\\\"#\\n\\x11InitModelResponse\\x12\\x0e\\n\\x06status\\x18\\x01 \\x01(\\x08\\\"#\\n\\x0cTrainRequest\\x12\\x13\\n\\x0bmodel_chunk\\x18\\x01 \\x01(\\x0c\\\"$\\n\\rTrainResponse\\x12\\x13\\n\\x0bmodel_chunk\\x18\\x01 \\x01(\\x0c\\\"G\\n\\x10PushModelRequest\\x12\\x13\\n\\tserver_id\\x18\\x01 \\x01(\\x04H\\x00\\x12\\x15\\n\\x0bmodel_chunk\\x18\\x02 \\x01(\\x0cH\\x00\\x42\\x07\\n\\x05model\\\"#\\n\\x11PushModelResponse\\x12\\x0e\\n\\x06status\\x18\\x01 \\x01(\\x08\\\"\\\"\\n\\x0cMergeRequest\\x12\\x12\\n\\nserver_ids\\x18\\x01 \\x03(\\x04\\\"^\\n\\rMergeResponse\\x12\\x13\\n\\tserver_id\\x18\\x01 \\x01(\\x04H\\x00\\x12\\x15\\n\\x0bmodel_chunk\\x18\\x02 \\x01(\\x0cH\\x00\\x12\\x18\\n\\x0emodel_eval_log\\x18\\x03 \\x01(\\tH\\x00\\x42\\x07\\n\\x05modelB(\\n$org.bupt.fedraft.rpc.trainer.messageP\\x01\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'trainer_message_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  DESCRIPTOR._serialized_options = b'\\n$org.bupt.fedraft.rpc.trainer.messageP\\001'\n  _INITMODELREQUEST._serialized_start=34\n  _INITMODELREQUEST._serialized_end=73\n  _INITMODELRESPONSE._serialized_start=75",
+        "detail": "rpc.trainer_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR",
+        "kind": 5,
+        "importPath": "rpc.trainer_message_pb2",
+        "description": "rpc.trainer_message_pb2",
+        "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x15trainer_message.proto\\x12\\x07\\x66\\x65\\x64raft\\\"\\'\\n\\x10InitModelRequest\\x12\\x13\\n\\x0bmodel_chunk\\x18\\x01 \\x01(\\x0c\\\"#\\n\\x11InitModelResponse\\x12\\x0e\\n\\x06status\\x18\\x01 \\x01(\\x08\\\"#\\n\\x0cTrainRequest\\x12\\x13\\n\\x0bmodel_chunk\\x18\\x01 \\x01(\\x0c\\\"$\\n\\rTrainResponse\\x12\\x13\\n\\x0bmodel_chunk\\x18\\x01 \\x01(\\x0c\\\"G\\n\\x10PushModelRequest\\x12\\x13\\n\\tserver_id\\x18\\x01 \\x01(\\x04H\\x00\\x12\\x15\\n\\x0bmodel_chunk\\x18\\x02 \\x01(\\x0cH\\x00\\x42\\x07\\n\\x05model\\\"#\\n\\x11PushModelResponse\\x12\\x0e\\n\\x06status\\x18\\x01 \\x01(\\x08\\\"\\\"\\n\\x0cMergeRequest\\x12\\x12\\n\\nserver_ids\\x18\\x01 \\x03(\\x04\\\"^\\n\\rMergeResponse\\x12\\x13\\n\\tserver_id\\x18\\x01 \\x01(\\x04H\\x00\\x12\\x15\\n\\x0bmodel_chunk\\x18\\x02 \\x01(\\x0cH\\x00\\x12\\x18\\n\\x0emodel_eval_log\\x18\\x03 \\x01(\\tH\\x00\\x42\\x07\\n\\x05modelB(\\n$org.bupt.fedraft.rpc.trainer.messageP\\x01\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'trainer_message_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  DESCRIPTOR._serialized_options = b'\\n$org.bupt.fedraft.rpc.trainer.messageP\\001'\n  _INITMODELREQUEST._serialized_start=34\n  _INITMODELREQUEST._serialized_end=73\n  _INITMODELRESPONSE._serialized_start=75\n  _INITMODELRESPONSE._serialized_end=110",
+        "detail": "rpc.trainer_message_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "_sym_db",
+        "kind": 5,
+        "importPath": "rpc.trainer_service_pb2",
+        "description": "rpc.trainer_service_pb2",
+        "peekOfCode": "_sym_db = _symbol_database.Default()\nimport trainer_message_pb2 as trainer__message__pb2\nDESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x15trainer_service.proto\\x12\\x07\\x66\\x65\\x64raft\\x1a\\x15trainer_message.proto2\\xa4\\x02\\n\\x0eTrainerService\\x12\\x41\\n\\nTrainModel\\x12\\x15.fedraft.TrainRequest\\x1a\\x16.fedraft.TrainResponse\\\"\\x00(\\x01\\x30\\x01\\x12\\x46\\n\\tPushModel\\x12\\x19.fedraft.PushModelRequest\\x1a\\x1a.fedraft.PushModelResponse\\\"\\x00(\\x01\\x12?\\n\\nMergeModel\\x12\\x15.fedraft.MergeRequest\\x1a\\x16.fedraft.MergeResponse\\\"\\x00\\x30\\x01\\x12\\x46\\n\\tInitModel\\x12\\x19.fedraft.InitModelRequest\\x1a\\x1a.fedraft.InitModelResponse\\\"\\x00(\\x01\\x42(\\n$org.bupt.fedraft.rpc.trainer.serviceP\\x01\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'trainer_service_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  DESCRIPTOR._serialized_options = b'\\n$org.bupt.fedraft.rpc.trainer.serviceP\\001'\n  _TRAINERSERVICE._serialized_start=58\n  _TRAINERSERVICE._serialized_end=350",
+        "detail": "rpc.trainer_service_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "DESCRIPTOR",
+        "kind": 5,
+        "importPath": "rpc.trainer_service_pb2",
+        "description": "rpc.trainer_service_pb2",
+        "peekOfCode": "DESCRIPTOR = _descriptor_pool.Default().AddSerializedFile(b'\\n\\x15trainer_service.proto\\x12\\x07\\x66\\x65\\x64raft\\x1a\\x15trainer_message.proto2\\xa4\\x02\\n\\x0eTrainerService\\x12\\x41\\n\\nTrainModel\\x12\\x15.fedraft.TrainRequest\\x1a\\x16.fedraft.TrainResponse\\\"\\x00(\\x01\\x30\\x01\\x12\\x46\\n\\tPushModel\\x12\\x19.fedraft.PushModelRequest\\x1a\\x1a.fedraft.PushModelResponse\\\"\\x00(\\x01\\x12?\\n\\nMergeModel\\x12\\x15.fedraft.MergeRequest\\x1a\\x16.fedraft.MergeResponse\\\"\\x00\\x30\\x01\\x12\\x46\\n\\tInitModel\\x12\\x19.fedraft.InitModelRequest\\x1a\\x1a.fedraft.InitModelResponse\\\"\\x00(\\x01\\x42(\\n$org.bupt.fedraft.rpc.trainer.serviceP\\x01\\x62\\x06proto3')\n_builder.BuildMessageAndEnumDescriptors(DESCRIPTOR, globals())\n_builder.BuildTopDescriptorsAndMessages(DESCRIPTOR, 'trainer_service_pb2', globals())\nif _descriptor._USE_C_DESCRIPTORS == False:\n  DESCRIPTOR._options = None\n  DESCRIPTOR._serialized_options = b'\\n$org.bupt.fedraft.rpc.trainer.serviceP\\001'\n  _TRAINERSERVICE._serialized_start=58\n  _TRAINERSERVICE._serialized_end=350\n# @@protoc_insertion_point(module_scope)",
+        "detail": "rpc.trainer_service_pb2",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerServiceStub",
+        "kind": 6,
+        "importPath": "rpc.trainer_service_pb2_grpc",
+        "description": "rpc.trainer_service_pb2_grpc",
+        "peekOfCode": "class TrainerServiceStub(object):\n    \"\"\"Trainer服务\n    \"\"\"\n    def __init__(self, channel):\n        \"\"\"Constructor.\n        Args:\n            channel: A grpc.Channel.\n        \"\"\"\n        self.TrainModel = channel.stream_stream(\n                '/fedraft.TrainerService/TrainModel',",
+        "detail": "rpc.trainer_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerServiceServicer",
+        "kind": 6,
+        "importPath": "rpc.trainer_service_pb2_grpc",
+        "description": "rpc.trainer_service_pb2_grpc",
+        "peekOfCode": "class TrainerServiceServicer(object):\n    \"\"\"Trainer服务\n    \"\"\"\n    def TrainModel(self, request_iterator, context):\n        \"\"\"训练模型\n        \"\"\"\n        context.set_code(grpc.StatusCode.UNIMPLEMENTED)\n        context.set_details('Method not implemented!')\n        raise NotImplementedError('Method not implemented!')\n    def PushModel(self, request_iterator, context):",
+        "detail": "rpc.trainer_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerService",
+        "kind": 6,
+        "importPath": "rpc.trainer_service_pb2_grpc",
+        "description": "rpc.trainer_service_pb2_grpc",
+        "peekOfCode": "class TrainerService(object):\n    \"\"\"Trainer服务\n    \"\"\"\n    @staticmethod\n    def TrainModel(request_iterator,\n            target,\n            options=(),\n            channel_credentials=None,\n            call_credentials=None,\n            insecure=False,",
+        "detail": "rpc.trainer_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "add_TrainerServiceServicer_to_server",
+        "kind": 2,
+        "importPath": "rpc.trainer_service_pb2_grpc",
+        "description": "rpc.trainer_service_pb2_grpc",
+        "peekOfCode": "def add_TrainerServiceServicer_to_server(servicer, server):\n    rpc_method_handlers = {\n            'TrainModel': grpc.stream_stream_rpc_method_handler(\n                    servicer.TrainModel,\n                    request_deserializer=trainer__message__pb2.TrainRequest.FromString,\n                    response_serializer=trainer__message__pb2.TrainResponse.SerializeToString,\n            ),\n            'PushModel': grpc.stream_unary_rpc_method_handler(\n                    servicer.PushModel,\n                    request_deserializer=trainer__message__pb2.PushModelRequest.FromString,",
+        "detail": "rpc.trainer_service_pb2_grpc",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerClient",
+        "kind": 6,
+        "importPath": "service.clients",
+        "description": "service.clients",
+        "peekOfCode": "class TrainerClient(object):\n    def __init__(self, host: str, port: int) -> None:\n        self.host = host\n        self.port = port\n        options = [('grpc.max_send_message_length', 512 * 1024 * 1024), ('grpc.max_receive_message_length', 512 * 1024 * 1024)]\n        channel = grpc.aio.insecure_channel(f\"{host}:{port}\", options=options)\n        self.stub: TrainerServiceStub = TrainerServiceStub(channel)\n    def __str__(self) -> str:\n        return f\"{self.host}:{self.port}\"\n    @classmethod",
+        "detail": "service.clients",
+        "documentation": {}
+    },
+    {
+        "label": "JobSubmitClient",
+        "kind": 6,
+        "importPath": "service.clients",
+        "description": "service.clients",
+        "peekOfCode": "class JobSubmitClient:\n    logger: logging = Properties.getLogger(__name__)\n    def __init__(self, host: str=\"localhost\", \n                 port: int=16788) -> None:\n        options = [('grpc.max_send_message_length', 512 * 1024 * 1024), ('grpc.max_receive_message_length', 512 * 1024 * 1024)]\n        channel = grpc.aio.insecure_channel(f\"{host}:{port}\", options=options)\n        self.stub: ManagerServiceStub = ManagerServiceStub(channel)\n    async def _make_request(code_file_path: str, model: BasicModel) -> AsyncIterator[JobSubmitRequest]:\n        file_name = os.path.split(code_file_path)[-1]\n        code = None",
+        "detail": "service.clients",
+        "documentation": {}
+    },
+    {
+        "label": "Leader",
+        "kind": 6,
+        "importPath": "service.leader",
+        "description": "service.leader",
+        "peekOfCode": "class Leader(object):\n    def __init__(self, model: BasicModel, service: TrainerService, epoch=10) -> None:\n        # 根据配置文件添加集群 建立通信客户端\n        cluster_str = Properties.get(Properties.TRAINER_CLUSTER)\n        self.clients: List[TrainerClient] = [] \n        with open(\"conf/cluster\", \"r\") as file:\n            for node_str in file.read().strip().split(\"\\n\"):\n                host, port = node_str.split(\":\")\n                logger.info(\"create client with \" + node_str)\n                self.clients.append(TrainerClient(host, int(port)))",
+        "detail": "service.leader",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerServer",
+        "kind": 6,
+        "importPath": "service.server",
+        "description": "service.server",
+        "peekOfCode": "class TrainerServer(object):\n    logger: logging = Properties.getLogger(__name__)\n    def __init__(self, port: int=None) -> None:\n        self.port = port if port != None else Properties.getInt(Properties.TRAINER_SERVER_PORT)\n        options = [('grpc.max_send_message_length', 512 * 1024 * 1024), ('grpc.max_receive_message_length', 512 * 1024 * 1024)]\n        self.server = grpc.aio.server(futures.ThreadPoolExecutor(max_workers=Properties.getInt(Properties.TRAINER_SERVER_THREADS)),\n                                        options=options)\n        self.service = TrainerService()\n        # 注册grpc服务\n        trainer_service_pb2_grpc.add_TrainerServiceServicer_to_server(self.service, self.server)",
+        "detail": "service.server",
+        "documentation": {}
+    },
+    {
+        "label": "TrainerService",
+        "kind": 6,
+        "importPath": "service.services",
+        "description": "service.services",
+        "peekOfCode": "class TrainerService(TrainerServiceServicer):\n    logger: logging = Properties.getLogger(__name__)\n    def __init__(self) -> None:\n        super().__init__()\n        self.model: BasicModel = None  # 用于训练的模型\n        self.merged_model: BasicModel = None  # 只用于合并和测试的模型\n        self.collected_models = []\n        self.total_size = 10\n        self.merge_lock = Lock()\n        self.local_env = LocalEnvironment()",
+        "detail": "service.services",
+        "documentation": {}
+    },
+    {
+        "label": "merge3",
+        "kind": 2,
+        "importPath": "test.bytes_test",
+        "description": "test.bytes_test",
+        "peekOfCode": "def merge3(chunk: bytes):\n    arr = bytearray()\n    for i in  range(100):\n        arr.extend(chunk)\n    return bytes(arr)   \ndef merge2(chunk: bytes):\n    chunks = []\n    for i in  range(100):\n        chunks.append(chunk)        \n    return b''.join(chunks)",
+        "detail": "test.bytes_test",
+        "documentation": {}
+    },
+    {
+        "label": "merge2",
+        "kind": 2,
+        "importPath": "test.bytes_test",
+        "description": "test.bytes_test",
+        "peekOfCode": "def merge2(chunk: bytes):\n    chunks = []\n    for i in  range(100):\n        chunks.append(chunk)        \n    return b''.join(chunks)\ndef merge1(chunk: bytes):\n    merged = b''\n    for i in  range(100):\n        merged += chunk\n    return merged",
+        "detail": "test.bytes_test",
+        "documentation": {}
+    },
+    {
+        "label": "merge1",
+        "kind": 2,
+        "importPath": "test.bytes_test",
+        "description": "test.bytes_test",
+        "peekOfCode": "def merge1(chunk: bytes):\n    merged = b''\n    for i in  range(100):\n        merged += chunk\n    return merged\ndef main():\n    chunk = b'1' * 7340032\n    tick1 = time.time()\n    merge2(chunk)\n    print(time.time() - tick1)",
+        "detail": "test.bytes_test",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "test.bytes_test",
+        "description": "test.bytes_test",
+        "peekOfCode": "def main():\n    chunk = b'1' * 7340032\n    tick1 = time.time()\n    merge2(chunk)\n    print(time.time() - tick1)\n    tick1 = time.time()\n    merge3(chunk)\n    print(time.time() - tick1)\n    pass\nif __name__ == \"__main__\":",
+        "detail": "test.bytes_test",
+        "documentation": {}
+    },
+    {
+        "label": "MyDataset",
+        "kind": 6,
+        "importPath": "test.dataloader_test",
+        "description": "test.dataloader_test",
+        "peekOfCode": "class MyDataset(Dataset):\n    def __init__(self, size):\n        self.x = torch.randn(size, 1)\n    def __getitem__(self, index):\n        return self.x[index]\n    def __len__(self):\n        return len(self.x)\ndataset = MyDataset(1001)\ndata_loader = DataLoader(dataset,\n                         batch_size=10)",
+        "detail": "test.dataloader_test",
+        "documentation": {}
+    },
+    {
+        "label": "dataset",
+        "kind": 5,
+        "importPath": "test.dataloader_test",
+        "description": "test.dataloader_test",
+        "peekOfCode": "dataset = MyDataset(1001)\ndata_loader = DataLoader(dataset,\n                         batch_size=10)\nprint(len(data_loader))\nfor batch_idx, data in enumerate(data_loader):\n    print('batch idx{}, batch len {}'.format(\n        batch_idx, len(data)))\ndata_loader = DataLoader(dataset,\n                     batch_size=10,\n                     drop_last=True)",
+        "detail": "test.dataloader_test",
+        "documentation": {}
+    },
+    {
+        "label": "data_loader",
+        "kind": 5,
+        "importPath": "test.dataloader_test",
+        "description": "test.dataloader_test",
+        "peekOfCode": "data_loader = DataLoader(dataset,\n                         batch_size=10)\nprint(len(data_loader))\nfor batch_idx, data in enumerate(data_loader):\n    print('batch idx{}, batch len {}'.format(\n        batch_idx, len(data)))\ndata_loader = DataLoader(dataset,\n                     batch_size=10,\n                     drop_last=True)\nprint(len(data_loader))",
+        "detail": "test.dataloader_test",
+        "documentation": {}
+    },
+    {
+        "label": "data_loader",
+        "kind": 5,
+        "importPath": "test.dataloader_test",
+        "description": "test.dataloader_test",
+        "peekOfCode": "data_loader = DataLoader(dataset,\n                     batch_size=10,\n                     drop_last=True)\nprint(len(data_loader))\nfor batch_idx, data in enumerate(data_loader):\n    print('batch idx{}, batch len {}'.format(\n        batch_idx, len(data)))",
+        "detail": "test.dataloader_test",
+        "documentation": {}
+    },
+    {
+        "label": "Dog",
+        "kind": 6,
+        "importPath": "test.pickle_model",
+        "description": "test.pickle_model",
+        "peekOfCode": "class Dog:\n    def __init__(self, name: str) -> None:\n        self.name = name\n    def greet(self):\n        print(f\"Hello I'm {self.name}\")",
+        "detail": "test.pickle_model",
+        "documentation": {}
+    },
+    {
+        "label": "file_path",
+        "kind": 5,
+        "importPath": "test.test_file",
+        "description": "test.test_file",
+        "peekOfCode": "file_path = \"../models/Examples.py\"\nprint(os.path.split(file_path)[-1])\nwith open(file_path, \"r\") as file:\n    print(file.read())\nprint(random.randint(0, 0x7fffffff))\nprint(random.randint(0, 0x7fffffff))\nprint(random.randint(0, 0x7fffffff))\nprint(random.randint(0, 0x7fffffff))\nprint(random.randint(0, 0x7fffffff))\nprint(random.randint(0, 0x7fffffff))",
+        "detail": "test.test_file",
+        "documentation": {}
+    },
+    {
+        "label": "obj_test",
+        "kind": 2,
+        "importPath": "test.test_pickle",
+        "description": "test.test_pickle",
+        "peekOfCode": "def obj_test():\n    a_dog = Dog(\"yzer\")\n    str = pickle.dumps(a_dog)\n    print(str)\n    # pickle的序列化对象必须在有该对象代码的机器上才可以运行\n    # str = b'\\x80\\x04\\x95-\\x00\\x00\\x00\\x00\\x00\\x00\\x00\\x8c\\x0cpickle_model\\x94\\x8c\\x03Dog\\x94\\x93\\x94)\\x81\\x94}\\x94\\x8c\\x04name\\x94\\x8c\\x04yzer\\x94sb.'\n    obj = pickle.loads(str)\n    obj.greet()\n    print(obj.__module__)\ndef performace_test():",
+        "detail": "test.test_pickle",
+        "documentation": {}
+    },
+    {
+        "label": "performace_test",
+        "kind": 2,
+        "importPath": "test.test_pickle",
+        "description": "test.test_pickle",
+        "peekOfCode": "def performace_test():\n    model = ResNetMNIST(10, 10)\n    tick = time.time()\n    [model_to_chunks(model) for i in range(1000000)]\n    print(f\"\\n\\ncost {time.time() - tick}\")\n    tick = time.time()\n    [model_to_chunks(model.state_dict()) for i in range(1000000)]\n    print(f\"\\n\\ncost {time.time() - tick}\")\n    tick = time.time()\n    [copy.deepcopy(model) for i in range(1)]",
+        "detail": "test.test_pickle",
+        "documentation": {}
+    },
+    {
+        "label": "test_model",
+        "kind": 2,
+        "importPath": "test.test_pickle",
+        "description": "test.test_pickle",
+        "peekOfCode": "def test_model():\n    model = ResNetMNIST(10)\n    for param in model.parameters():\n        # param: torch.nn.parameter.Parameter\n        # with torch.no_grad():\n        #     param[:] = param.cuda() / 2 \n        # print(type(param))\n        pass\nif __name__ == \"__main__\":\n    obj_test()",
+        "detail": "test.test_pickle",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "test.train_test",
+        "description": "test.train_test",
+        "peekOfCode": "def main():\n    instance_num = 5\n    ids = [i for i in range(instance_num)]\n    services = [TrainerService() for i in range(instance_num)]\n    model = ResNetMNIST(5)   \n    global_epoch = 15\n    chunks = list(map(lambda x: InitModelRequest(model_chunk=x), model_to_chunks(model)))\n    # 初始化\n    for service in services:\n        response = service.InitModel(chunks, None)",
+        "detail": "test.train_test",
+        "documentation": {}
+    },
+    {
+        "label": "Properties",
+        "kind": 6,
+        "importPath": "utils.Configuration",
+        "description": "utils.Configuration",
+        "peekOfCode": "class Properties:\n    logger: logging.Logger = None\n    _conf: dict = None\n    TRAINER_SERVER_PORT = \"trainer.server.port.default\"\n    LOG_MODEL_CHUNK_SIZE = \"trainer.model.chuck-size\"\n    TRAINER_SERVER_THREADS = \"trainer.server.threads\"\n    TRAINER_CLIENT_THREADS = \"trainer.client.threads\"\n    TRAINER_CLUSTER = \"trainer.cluster\"\n    TRAINER_MERGE_BOUND = \"trainer.server.merge-bound\"\n    GRPC_CLIENT_OPTIONS = [('grpc.max_send_message_length', 512 * 1024 * 1024),",
+        "detail": "utils.Configuration",
+        "documentation": {}
+    },
+    {
+        "label": "TimeMetric",
+        "kind": 6,
+        "importPath": "utils.Metricsutils",
+        "description": "utils.Metricsutils",
+        "peekOfCode": "class TimeMetric:\n    \"\"\"时间计数类 用于计算性能耗时\n    在创建对象时，会将当前时间标记为开始时间\n    \"\"\"\n    def __init__(self) -> None:\n        self.time_sub = time()\n        self.begin = time()\n    def from_begin(self) -> int:\n        return int((time() - self.begin) * 1000)\n    def mark(self) -> int:",
+        "detail": "utils.Metricsutils",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "utils.Metricsutils",
+        "description": "utils.Metricsutils",
+        "peekOfCode": "logger = Properties.getLogger(__name__)\nclass TimeMetric:\n    \"\"\"时间计数类 用于计算性能耗时\n    在创建对象时，会将当前时间标记为开始时间\n    \"\"\"\n    def __init__(self) -> None:\n        self.time_sub = time()\n        self.begin = time()\n    def from_begin(self) -> int:\n        return int((time() - self.begin) * 1000)",
+        "detail": "utils.Metricsutils",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_bytes",
+        "kind": 2,
+        "importPath": "utils.ModelSerializeUtils",
+        "description": "utils.ModelSerializeUtils",
+        "peekOfCode": "def model_to_bytes(model: BasicModel) -> bytes:\n    \"\"\"模型序列化\n    Args:\n        model (nn.Module): 模型\n    Returns:\n        bytes: 序列化后的字节属数组\n    \"\"\"\n    model_bytes = pickle.dumps(model)\n    logger.debug(f\"model_to_chunks: model has been serialized, size: {len(model_bytes)/1024} KB\")\n    return model_bytes",
+        "detail": "utils.ModelSerializeUtils",
+        "documentation": {}
+    },
+    {
+        "label": "model_to_chunks",
+        "kind": 2,
+        "importPath": "utils.ModelSerializeUtils",
+        "description": "utils.ModelSerializeUtils",
+        "peekOfCode": "def model_to_chunks(model, chunk_size=Properties.getInt(Properties.LOG_MODEL_CHUNK_SIZE)) -> Iterator[\n    bytes]:\n    \"\"\"字节序列切片\n    Args:\n        model_bytes (bytes): 目标模型序列化后的字节\n        chunk_size (_type_, optional): 切块后每一块字节数组的大小. Defaults to Properties.LOG_MODEL_CHUNKSIZE.\n    Yields:\n        Iterator[bytes]: 返回一个迭代器，每次返回一个字节块\n    \"\"\"\n    model_bytes = model_to_bytes(model)",
+        "detail": "utils.ModelSerializeUtils",
+        "documentation": {}
+    },
+    {
+        "label": "chunks_to_model",
+        "kind": 2,
+        "importPath": "utils.ModelSerializeUtils",
+        "description": "utils.ModelSerializeUtils",
+        "peekOfCode": "def chunks_to_model(chunks: List[bytes]) -> BasicModel:\n    \"\"\"_summary_\n    Args:\n        bytes_data (bytes): 模型的序列化字节\n    Returns:\n        nn.Module: 反序列化得到的模型\n    \"\"\"\n    bytes_data = b''.join(chunks)\n    logger.debug(\"chunks_to_model: combine bytes chunks to model bytes\")\n    model = pickle.loads(bytes_data)",
+        "detail": "utils.ModelSerializeUtils",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "utils.ModelSerializeUtils",
+        "description": "utils.ModelSerializeUtils",
+        "peekOfCode": "logger = Properties.getLogger(name=str(__name__))\ndef model_to_bytes(model: BasicModel) -> bytes:\n    \"\"\"模型序列化\n    Args:\n        model (nn.Module): 模型\n    Returns:\n        bytes: 序列化后的字节属数组\n    \"\"\"\n    model_bytes = pickle.dumps(model)\n    logger.debug(f\"model_to_chunks: model has been serialized, size: {len(model_bytes)/1024} KB\")",
+        "detail": "utils.ModelSerializeUtils",
+        "documentation": {}
+    },
+    {
+        "label": "NodeInfo",
+        "kind": 6,
+        "importPath": "utils.NodeInfo",
+        "description": "utils.NodeInfo",
+        "peekOfCode": "class NodeInfo(object):\n    E16 = 1 << 16\n    E8 = 1 << 8\n    def __init__(self, ip: str, manager_port: int, trainer_port: int) -> None:\n        self.ip = ip\n        self.manager_port = manager_port\n        self.trainer_port = trainer_port\n    def get_id(self) -> int:\n        fields = self.ip.split(\".\")\n        node_id = reduce(lambda x, y: (x << 8) + int(y), fields, 0)",
+        "detail": "utils.NodeInfo",
+        "documentation": {}
+    },
+    {
+        "label": "leader_job",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def leader_job():\n    pass\ndef get_request(model: BasicModel):\n    for chunk in model_to_chunks(model):\n        yield TrainRequest(model_chunk=chunk)\nasync def main(port:int=None, isLeader: bool=False):\n    trainer_server = TrainerServer(port)\n    await trainer_server.start()\n    if isLeader:\n        # 如果是Leader 就启动Leader的工作",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_request",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_request(model: BasicModel):\n    for chunk in model_to_chunks(model):\n        yield TrainRequest(model_chunk=chunk)\nasync def main(port:int=None, isLeader: bool=False):\n    trainer_server = TrainerServer(port)\n    await trainer_server.start()\n    if isLeader:\n        # 如果是Leader 就启动Leader的工作\n        leader = Leader(ResNetCIFAR10(3000), trainer_server.service, 20)\n        await leader.start()",
+        "detail": "main",
+        "documentation": {}
+    }
+]

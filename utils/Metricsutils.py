@@ -11,6 +11,10 @@ class TimeMetric:
 
     def __init__(self) -> None:
         self.time_sub = time()
+        self.begin = time()
+        
+    def from_begin(self) -> int:
+        return int((time() - self.begin) * 1000)
 
     def mark(self) -> int:
         """计算距离上一个mark过去了多久，并将重新mark当前时间
